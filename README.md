@@ -5,8 +5,8 @@ Computer Scientist
 ------------------------
 * 🌍  I'm based in Havana, Cuba.
 * 🖥️  See my portfolio [here](https://rb58853.github.io/CV/)
-<!-- * 📋  My CV [here](https://drive.google.com/file/d/1S4es6okjbK9onXTjg9seji9N-_dCdl9G/view?usp=sharing) -->
 * 🤝  I'm open to collaborating on interesting projects
+<!-- * 📋  My CV [here](https://drive.google.com/file/d/1S4es6okjbK9onXTjg9seji9N-_dCdl9G/view?usp=sharing) -->
 
 <!-- ### Skills
 
