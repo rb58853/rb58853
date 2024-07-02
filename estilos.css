@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.item {
+    text-align: center;
+}
+
+.texto-arriba {
+    display: block;
+    /* Hace que el párrafo ocupe todo el ancho disponible */
+}
