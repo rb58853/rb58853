@@ -28,8 +28,6 @@ Computer Scientist
 
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <title>Ejemplo de Texto sobre Imagen</title>
     <link rel="stylesheet" href="estilos.css"> 
 </head>
 <body>
