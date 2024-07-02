@@ -27,7 +27,7 @@ Computer Scientist
 | <a href = "https://www.privacyguides.org/en/os/linux-overview/#:~:text=Linux%20is%20an%20open%2Dsource,computers%20from%20the%20ground%20up."> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> </a> | <a href = "https://operavps.com/blog/what-is-debian/#:~:text=Debian%20is%20free%2C%20open%2Dsource,Linux%20are%20based%20on%20it."><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg"/> </a> |
 
 
-<table width="auto" border="1" cellspacing="0" cellpadding="0">
+<table width="auto" border="0" cellspacing="0" cellpadding="0">
     <tr>  
         <td align="center">
             <b>Python</b>
