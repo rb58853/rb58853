@@ -22,21 +22,29 @@ Computer Scientist
 
 ### OS
 
-| Linux | Debian |
-|-------|--------|
+| Linux                                                                                                                                                                                                                                                                                            | Debian                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href = "https://www.privacyguides.org/en/os/linux-overview/#:~:text=Linux%20is%20an%20open%2Dsource,computers%20from%20the%20ground%20up."> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> </a> | <a href = "https://operavps.com/blog/what-is-debian/#:~:text=Debian%20is%20free%2C%20open%2Dsource,Linux%20are%20based%20on%20it."><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg"/> </a> |
 
 
-<table width="auto" border="0" cellspacing="0" cellpadding="0">
+<table width="auto" border="1" cellspacing="0" cellpadding="0">
     <tr>  
-        <td width="90" align="center">
-            <p><b>Python</b></p>
+        <td align="center">
+            <b>Python</b>
+        </td>
+        <td align="center">
+            <b>C#</b>
+        </td>
+    </tr>
+    <tr>  
+        <td width="auto" height = "auto" align="center">
+            <!-- <p><b>Python</b></p> -->
             <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="55" height="55" alt="Python" />
             </a>
         </td>
-        <td width="90" align="center">
-            <p><b>C#</b></p>
+        <td width="60" align="center">
+            <!-- <p><b>C#</b></p> -->
             <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="55" height="55" alt="C#" /></a>
         </td>
     </tr>
