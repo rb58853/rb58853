@@ -22,7 +22,7 @@ Computer Scientist
 
 
 ### Languajes
-<table width="auto" border="1" cellspacing="0" cellpadding="0">
+<table width="auto" border="0" cellspacing="0" cellpadding="0">
     <tr>  
         <td width="60" align="center">
             <b>Python</b>
