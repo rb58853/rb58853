@@ -7,12 +7,7 @@ Computer Scientist
 * 🖥️  See my portfolio [here](https://rb58853.github.io/CV/)
 * 🤝  I'm open to collaborating on interesting projects
 
-### Languages:
-<div align="left" gap="100">
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<!-- <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Golang" /></a> -->
-</div>
+
 
 
 ### Languajes
@@ -56,7 +51,7 @@ Computer Scientist
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="55" height="55" alt="JavaScript" /></a>
         </td>
         <td width="60" align="center">
-            <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55" alt="C#" /></a>
+            <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/rb58853/rb58853/blob/main/assets/asm.png" width="55" height="55" alt="MIPS" /></a>
         </td>
          <td width="60" align="center">
             <a href=""target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="55" height="55" alt="C#" /></a>
@@ -73,9 +68,15 @@ Computer Scientist
     </tr>
 </table>
 
+### Skills
+<div align="left" gap="100">
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+
+</div>
+
 
 ### OS
-
 <table width="auto" border="0" cellspacing="0" cellpadding="0">
     <tr>  
         <td align="center">
