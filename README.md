@@ -23,7 +23,7 @@ Computer Scientist
             <b>JavaScript</b>
         </td>
         <td width="60" align="center">
-            <b>MIPS</b>
+            <b>Assembly</b>
         </td>
         <td width="60" align="center">
             <b>DART</b>
@@ -51,7 +51,7 @@ Computer Scientist
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="55" height="55" alt="JavaScript" /></a>
         </td>
         <td width="60" align="center">
-            <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/rb58853/rb58853/blob/main/assets/asm.png" width="55" height="55" alt="MIPS" /></a>
+            <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/rb58853/rb58853/blob/main/assets/asm.svg" width="55" height="55" alt="MIPS" /></a>
         </td>
          <td width="60" align="center">
             <a href=""target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="55" height="55" alt="C#" /></a>
