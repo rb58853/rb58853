@@ -11,7 +11,7 @@ Computer Scientist
 
 
 ### Languajes
-<table width="auto" border="1" cellspacing="0" cellpadding="0">
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
     <tr>  
         <td width="60" align="center">
             <b>Python</b>
@@ -51,7 +51,7 @@ Computer Scientist
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="55" height="55" alt="JavaScript" /></a>
         </td>
         <td width="60" align="center">
-            <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/rb58853/rb58853/blob/main/assets/asm.svg" width="55" height="55" alt="MIPS" /></a>
+            <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/AssemblyScript_logo_2020.svg" width="55" height="55" alt="MIPS" /></a>
         </td>
          <td width="60" align="center">
             <a href=""target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="55" height="55" alt="C#" /></a>
