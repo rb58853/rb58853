@@ -42,6 +42,6 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 <p align="center">
   <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rb58853&show_icons=true&theme=vision-friendly-dark"> -->
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&layout=donut&theme=radical&hide=jupyter,ipynb">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&layout=donut&theme=radical&hide=jupyter notebook,python">
 </p>
  
