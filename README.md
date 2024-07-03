@@ -37,11 +37,14 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 <p align="center">
-  <img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=dark&hide_border=false&border_radius=5&card_width=1200">
+  <a href=""><img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=dark&hide_border=false&border_radius=5&card_width=1200">
 </p>
+  </a>
 
 <p align="center">
   <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rb58853&show_icons=true&theme=vision-friendly-dark"> -->
-  <a><img width="1200" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&layout=donut&theme=dark&border_color=red&hide=jupyter">
-</p></a>
+  <a href="">
+<img width="1200" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&layout=donut&theme=dark&border_color=red&hide=jupyter">
+</a>
+</p>
  
