@@ -26,11 +26,13 @@ algunos proyectos como es mi portafolio y otras paginas webs.
 - **info**: He trabajado en proyectos relacionados con este campo como es el uso de LLMs de openAI. Tambien he aplicado estos conocimientos a la recuperacion de **info**rmacion usando embeddings. En cuanto a entrenamiento y creacion de modelos tengo experiencia en redes neuronales recurrentes, transformers o capas de atencion y en redes convlucionales. El enfoque principal que he usado en esta habilidad es sobre imagenes y lenguaje natural.
 - **experience-time**: 2 years
 
-net - **level**: medium
+## .Net 
+- **level**: medium
 - **info**: He usado el ORM de .net para proyectos presonales sencillos y domino muy bien el lenguaje C# que se usa para este entorno.
 - **experience-time**: 1 month
 
-- **info**rmation Retrieval Systems- **level**: very high
+## Information Retrieval Systems
+- **level**: very high
 - **info**: He trabajado en proyectos relacionados con este campo combinandolo con el uso de LLM y de embeddings. Estoy familiarizado con esta habilidad tanto con el uso de vectores generados (como embeddings) como con cualquier tipo de vector o recuperacion por terminos. Tambien conozco a la perfeccion estructuras de datos como TRIE para lograr la menor complejidad temporal en este tipo de problemas. Actualmente estoy trabajando en un proyecto OpenSource de este campo
 - **experience-time**: 3 years
 
