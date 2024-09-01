@@ -1,6 +1,6 @@
 {
     "projects": {
-        "base_feilds": [
+        "base_fields": [
             "language",
             "description"
         ]
