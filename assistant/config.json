@@ -1,7 +1,7 @@
 {
     "projects": {
         "base_fields": [
-            "language",
+            "programming_languajes",
             "description"
         ]
     }
