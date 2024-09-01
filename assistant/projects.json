@@ -1,12 +1,10 @@
 [
     {
         "id": "IRSImagesCLIP",
-        "repo": null,
-        "auto_fill": false
+        "repo": null
     },
     {
         "id": "navMeshAgentAI",
-        "repo": "https://github.com/rb58853/NavAgent-AI",
-        "auto_fill": true
+        "repo": "https://github.com/rb58853/NavAgent-AI"
     }
 ]
