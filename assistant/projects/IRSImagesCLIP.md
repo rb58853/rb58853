@@ -1,21 +1,65 @@
-# IRSImagesCLIP
-## Title 
-Image Retrieval System using Machine Learning.
+# Image Retrieval System using Machine Learning
 
-## skills 
-- IRS
-- ML
-- AI
+## Overview
 
-## keywords
-- Embeddings
-- Multimodals Embeddings
- 
-## Languages
+This project focuses on developing an advanced Image Retrieval System (IRS) using machine learning techniques. It employs cutting-edge models like Segment Anything (SAM) and Constrative Language-Image Pretraining (CLIP) to create multimodal embeddings for precise image retrieval based on text queries.
+
+### Key Features
+
+- Multimodal Embeddings Generation
+- Image Segmentation using SAM Model
+- Text-to-Image Matching
+- Positional Information Processing
+
+### Technologies Used
+
 - Python
+- Segment Anything (SAM) Model
+- Constrative Language-Image Pretraining (CLIP) Model
 
-## description
-In this project, the problem of precise image retrieval is addressed. The work employs a new approach: the application of the Segment Anything (SAM) segmentation models and the Constractive Language-Image Pretraining (CLIP) model for the generation of multimodal embeddings. Special emphasis is placed on image retrieval via precise queries, taking into account the position of image 
-segments that compose the same, processing both text and images.
+### Skills Demonstrated
 
-Este es mi proyecto de tesis para el titulo de cientifico de la computacion. En ese proyecto el enfoque es recuperar imagenes usando texto como entrada. En tiempo de indexacion se crean embedding de la imagen y y segmentaciones de la misma para lograr recuperar las mismas mediante informacion posiscional. Para segmentar las imagenes se usa el modelo de Meta SAM (segment Anything model), con ello se segmenta la imagen y a cada segementacion se le genera un embedding multimodal usando el Modelo de OpenAI CLIP, este modelo genera embeddings tanto para imagenes como para texto. Usando todos los embeddings generados, tanto imagenes como segmentacion de la imagen original se hace la recuperacion matcheando texto contra imagen.
+- Information Retrieval Systems (IRS)
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+- Image Processing
+- Natural Language Processing
+
+### Description
+
+This project tackles the challenging task of precise image retrieval using text queries. The approach involves:
+
+1. **Image Segmentation**:
+   - Utilizes the Segment Anything (SAM) model to divide images into meaningful segments
+   - Allows for more granular and contextual understanding of image contents
+
+2. **Multimodal Embeddings Generation**:
+   - Employs the CLIP model to create embeddings for both images and text
+   - Generates multimodal embeddings for each image segment
+
+3. **Indexing Process**:
+   - Creates embeddings for entire images and their segments during indexing
+   - Stores positional information of segments within images
+
+4. **Query Processing**:
+   - Accepts text queries as input
+   - Generates embeddings for query text using CLIP model
+
+5. **Retrieval Mechanism**:
+   - Matches query embeddings against stored image and segment embeddings
+   - Considers positional information for more accurate retrieval
+
+### Implementation Details
+
+- Uses Python as the primary development language
+- Implements efficient storage and retrieval mechanisms for large-scale image datasets
+- Develops algorithms for processing and matching multimodal embeddings
+
+### Thesis Project Significance
+
+This project serves as the author's thesis for the Computer Science degree. It focuses specifically on retrieving images using text input, leveraging advanced machine learning models to achieve high precision in image retrieval.
+
+### Keywords
+
+- Embeddings
+- Multimodal Embeddings

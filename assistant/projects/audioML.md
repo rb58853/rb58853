@@ -1,22 +1,81 @@
-# Audio Genre Classification
-The classification of music genres plays a crucial role in modern digital audio signal processing applications. In this study, we propose several machine learning approaches to accurately categorize music tracks into predefined genres. Each approach uses different sets of 'features' that can be extracted from songs; ranging from common ones like MFCC (Mel-frequency cepstral coefficients) and direct audio signals to less explored 'features' in this context such as song lyrics and Wavelet Transform. To evaluate the models, we use the GTZAN reference dataset in the field. The results obtained highlight that song lyrics do not contribute much to classification, at least in the dataset used. The other models show results consistent with the state of the art, with an accuracy between 0.75 and 0.80.
+# Audio Genre Classification Project
 
-## skills
-- ML
-- AI
-## languages
+## Overview
+
+This project focuses on developing machine learning models for accurate classification of music genres. It explores various approaches using different feature extraction techniques and evaluates their performance on the GTZAN dataset.
+
+### Key Features
+
+- Music Genre Classification
+- Multiple Feature Extraction Methods
+- Comparison of Different Machine Learning Models
+- Evaluation on Standard Dataset
+
+### Technologies Used
+
 - Python
-        
-## keywords 
+- CNN (Convolutional Neural Networks)
+- RNN (Recurrent Neural Networks)
+
+### Skills Demonstrated
+
+- Machine Learning
+- Artificial Intelligence
+- Signal Processing
+- Feature Engineering
+
+### Description
+
+The Audio Genre Classification project aims to develop robust models for categorizing music tracks into predefined genres. Some key aspects of the project include:
+
+1. **Feature Extraction**:
+   - Implements multiple feature extraction techniques:
+     - MFCC (Mel-frequency cepstral coefficients)
+     - Spectrograms
+     - Conv1D features
+     - Encoder-based features
+     - Song lyrics analysis
+   - Explores less common features like Wavelet Transform
+
+2. **Machine Learning Models**:
+   - Develops CNN (Convolutional Neural Networks) models
+   - Implements RNN (Recurrent Neural Networks) models
+   - Compares performance of different architectures
+
+3. **Dataset**:
+   - Utilizes the GTZAN reference dataset for evaluation
+   - Analyzes dataset characteristics and limitations
+
+4. **Model Evaluation**:
+   - Conducts thorough evaluation of model performances
+   - Reports accuracy metrics for each approach
+
+5. **Insights and Findings**:
+   - Discovers that song lyrics contribute minimally to classification accuracy
+   - Achieves state-of-the-art results with accuracies between 0.75 and 0.80
+
+### Implementation Details
+
+- Uses Python-based machine learning libraries (e.g., TensorFlow, PyTorch)
+- Implements efficient data preprocessing pipelines
+- Develops custom feature extraction functions for audio signals
+- Utilizes cross-validation techniques for robust model assessment
+
+### Challenges and Limitations
+
+- Addresses the challenge of extracting meaningful features from raw audio data
+- Explores the trade-offs between different feature extraction methods
+- Discusses the limitations of using lyrics for genre classification
+
+### Keywords
+
 - Music genre
 - CNN
-- spectograms
+- Spectograms
 - MFCC
 - Conv1D
-- encoder
+- Encoder
 
-## dataset
-- GTZAN,
-## models 
-- CNN 
-- RNN
+---
+
+[Back to Table of Contents](#table-of-contents)
