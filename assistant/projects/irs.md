@@ -19,7 +19,6 @@ This project aims to develop an advanced Information Retrieval System (IRS) for 
 
 - IRS Implementation
 - Advanced Data Structures (Trie)
-- Natural Language Processing Techniques
 
 ### Description
 
