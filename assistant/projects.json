@@ -6,5 +6,41 @@
     {
         "id": "navMeshAgentAI",
         "repo": "https://github.com/rb58853/NavAgent-AI"
+    },
+    {
+        "id": "audioML",
+        "repo": null
+    },
+    {
+        "id": "chatbot",
+        "repo": null
+    },
+    {
+        "id": "colorProblem",
+        "repo": null
+    },
+    {
+        "id": "coolCompiler",
+        "repo": null
+    },
+    {
+        "id": "ftp",
+        "repo": null
+    },
+    {
+        "id": "irs",
+        "repo": null
+    },
+    {
+        "id": "tito",
+        "repo": null
+    },
+    {
+        "id": "littleArchemy",
+        "repo": null
+    },
+    {
+        "id": "yugiOhBackend",
+        "repo": null
     }
 ]
