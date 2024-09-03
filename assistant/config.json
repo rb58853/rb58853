@@ -4,5 +4,6 @@
             "programming_languajes",
             "description"
         ]
-    }
+    },
+    "repo_info_file": "info.md"
 }
