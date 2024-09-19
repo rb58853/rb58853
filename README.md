@@ -44,10 +44,10 @@ My professional interests lean towards number theory, graph theory, and the deve
 </p>
   </a>
 
-<div align="center">
+<!--<div align="center">
   <img width="auto" height="200" src="https://github-readme-stats.vercel.app/api?username=rb58853&show_icons=true&theme=vision-friendly-dark">
   
-  <!-- <a> <img width="auto" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&layout=donut&theme=dark&border_color=red&hide=jupyter%20notebook"></a> -->
+  <a> <img width="auto" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&layout=donut&theme=dark&border_color=red&hide=jupyter%20notebook"></a> -->
 
 <!-- <img width="auto" height="auto" src="https://github-profile-trophy.vercel.app/?username=rb58853&column=3&margin-w=15&margin-h=15&theme=dark"/> -->
  
