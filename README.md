@@ -19,7 +19,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 <h2 align = "center"> Programing Languages</h2>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; place-content: center">  
+<div style="display: flex; gap: 10px; flex-wrap: wrap; place-content: center; flex-direction: row">  
   <div align= "center">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" minwidth= "44" minheight="44" width="44" height="44" alt="C#" /></a>  
     <p align="center"><b>C#</b></p>
