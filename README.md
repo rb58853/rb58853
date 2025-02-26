@@ -71,7 +71,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 <h3 align = "center"> Best frameworks and main libraries for Python3</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; place-content: center">
+<div align = "center">
     <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/rb58853/rb58853/raw/main/assets/typesense.webp" width="44" height="44" alt="Python" /></a>
       <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/rb58853/rb58853/raw/main/assets/openai.svg" width="44" height="44" alt="openai" /></a>
       <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="Python" /></a>
