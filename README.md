@@ -87,9 +87,9 @@ My professional interests lean towards number theory, graph theory, and the deve
   <a href = "https://www.privacyguides.org/en/os/linux-overview/#:~:text=Linux%20is%20an%20open%2Dsource,computers%20from%20the%20ground%20up."> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="44" height="44"/> </a> 
   <a href = "https://operavps.com/blog/what-is-debian/#:~:text=Debian%20is%20free%2C%20open%2Dsource,Linux%20are%20based%20on%20it."><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  title="Linux" alt="Debian" width="44" height="44"/> </a>
   <a href = ""><img src="assets/windows.png"  title="Linux" alt="Windows" width="44" height="44"/> </a>
-  <a href=""><img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=dark&hide_border=false&border_radius=5&card_width=1200">
-  </a>
 </div>
+
+<a href=""><img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=dark&hide_border=false&border_radius=5&card_width=1200"></a>
 
 
 
