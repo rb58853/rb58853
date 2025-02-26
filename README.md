@@ -68,7 +68,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 
-<h3 align = "center"> Markup Languages</h3>
+<!-- <h3 align = "center"> Markup Languages</h3>
 <div style="display: flex; gap: 10px; flex-wrap: wrap; place-content: center">  
   <div align= "center">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" /></a>
@@ -85,8 +85,14 @@ My professional interests lean towards number theory, graph theory, and the deve
     <p align="center"><b>MarkD</b></p>
   </div>
 </div>
+ -->
 
-
+<h3 align = "center"> Markup Languages</h3>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; place-content: center">  
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" /></a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS"/> </a> 
+    <a href="" target="_blank" rel="noreferrer"> <img src="assets/markdown.png" width="44" height="44" alt="Markdown"/> </a> 
+</div>
 
 
 
