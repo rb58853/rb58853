@@ -175,7 +175,7 @@ The classification of music genres plays a crucial role in modern digital audio 
 
 <div align = "right">
 <kbd><a src="https://github.com/science-engineering-art/mugenfier">
-<img src="assets/github.svg" width="15" height="15" alt=""/> 
+<!-- <img src="assets/github.svg" width="15" height="15" alt=""/>  -->
 repository</a></kbd>   
 <kbd><a src="https://rb58853.github.io/CV/projects/audioML/audioML.pdf">paper</a></kbd>
 <div>
@@ -187,7 +187,7 @@ repository</a></kbd>
 <details><summary align = "center">Image Retrieval System using Machine Learning</summary>
 <div>
 
-# Image Retrieval System using Machine Learning
+## Image Retrieval System using Machine Learning
 In this project, the problem of precise image retrieval is addressed. The work employs a new approach: the application of the Segment Anything (SAM) segmentation models and the Constractive Language-Image Pretraining (CLIP) model for the generation of multimodal embeddings. Special emphasis is placed on image retrieval via precise queries, taking into account the position of image segments that compose the same, processing both text and images.
 
 ### Languages and Technologies
@@ -196,7 +196,7 @@ In this project, the problem of precise image retrieval is addressed. The work e
 
 <div align = "right">
 <kbd><a src="https://github.com/rb58853/ML-RSI-Images">
-<img src="assets/github.svg" width="15" height="15" alt=""/> 
+<!-- <img src="assets/github.svg" width="15" height="15" alt=""/>  -->
 repository</a></kbd>   
 <kbd><a src="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">paper</a></kbd>
 <div>
