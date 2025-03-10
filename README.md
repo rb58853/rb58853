@@ -79,13 +79,9 @@ My professional interests lean towards number theory, graph theory, and the deve
   <img src="assets/windows.png"  title="Windows" alt="Windows" width="44" height="44"/> 
 </div>
 
-<!-- <h2 align = "center">Projects</h2>
-<div align = "center">
-<h3>Current On Workig Project</h3>
-<img width="300" height="auto" src="">
-</div>
 
-<div align = "center">
+
+<!-- <div align = "center">
 <h3>Some Open Source Projects</h3>
 </div>
 
@@ -95,13 +91,21 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 <h2 align = "center">Github Stats</h2>
-<img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=dark&hide_border=false&border_radius=5&card_width=1200">
+<div align = "center">
+<img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=radical&hide_border=false&border_radius=5&card_width=1200">
 
-<p align = "center">
-	<img src = "https://github.com/rb58853/rb58853/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
+[![Resumen del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rb58853&theme=radical)](https://github.com/rb58853)
+
+<!-- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rb58853&show_icons=true&theme=radical)](https://github.com/rb58853) -->
+
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&theme=radical&row=1&column=5&hide=no-frame,stars)](https://github.com/rb58853)
+
+<!-- [![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&theme=radical&size_weight=0&count_weight=1&hide=CSS,HTML)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![committers.top badge](https://user-badge.committers.top/cuba/rb58853.svg)](https://user-badge.committers.top/cuba/rb58853) -->
+
+</div>
 
 
 
@@ -112,10 +116,39 @@ My professional interests lean towards number theory, graph theory, and the deve
  <!-- <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> -->
 <a href="mailto:rb58853@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://t.me/rb58853" target="_blank">
-<img alt="Telegram" src="https://simg.shields.io/static/v1?style=for-the-badge&message=Telegram&color=EA4335&logo=Telegram&logoColor=0088CC&label=" />
+<img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=0088CC&logo=Telegram&logoColor=FFFFFF&label=" />
 </a>
-<a href="https://t.me/rb58853" target="_blank">
-<img alt="Whatsapp" src="https://simg.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=EA4335&logo=Whatsapp&logoColor=#25D366&label=" />
+<a href="wa.me/5358486223" target="_blank">
+<img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Whatsapp&color=25D366&logo=Whatsapp&logoColor=FFFFFF&label=" />
 </a>
-<!-- <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a> -->
+<!-- <a href="wa.me/5358486223" target="_blank"><img alt="Steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=00AEFF&logo=Steam&logoColor=FFFFFF&label=" /></a> -->
 </div>
+<h2 align = "center">Projects</h2>
+<div align = "center">
+<h3>Current On Workig Project</h3>
+<kbd>
+  <div><img width="300" height="auto" src="assets/projects/arcane/Logo.png"></div>
+  </div>
+
+## Arcane
+Arcane es un juego digital innovador que fusiona un sofisticado sistema de combate basado en cartas con mecánicas roguelike tradicionales. El juego implementa tres especializaciones mágicas distintivas: Mago Elemental (dominio de elementos naturales), Mago Invocador (convocatoria de entidades sobrenaturales) y Mago de Sangre (manipulación de esencia vital).
+
+El sistema técnico está construido sobre Unity con C#, incorporando principios SOLID y metodologías ágiles de desarrollo. Una característica distintiva es su sistema evolutivo de cartas, donde cada especialización cuenta con su propia biblioteca única de cartas mágicas.
+
+Para garantizar accesibilidad global, Arcane implementa un avanzado sistema de internacionalización que soporta múltiples idiomas, incluyendo español, inglés, chino simplificado/tradicional, japonés, coreano, entre otros. 
+
+El juego ofrece amplias posibilidades de expansión futura, incluyendo:
+* Nuevos sistemas mágicos y especializaciones
+* Expansión del sistema de progresión
+* Modos multijugador
+* Nuevas mecanicas de juego
+
+### Lenguages y Tecnologias
+- **Unity**: Motor Grafico utilizado para generar el juego
+- **C#**: El codigo del proyecto esta programado en c#
+- **Python**: Se utiliza paralelamente para generar idiomas en tiempo de indexacion
+- **OpenAI**: Biblioteca de python utilizada para automatizar la generacion de lenguages con modelos de NLP
+
+### Estado actual
+Actualmente esta en modo de desarrollo y es un proyecto de codigo cerrado. En cuando se termine el proyecto se creara un repositorio de codigo abierto con objetivo solamente informativo.
+</kbd>
