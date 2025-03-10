@@ -123,32 +123,39 @@ My professional interests lean towards number theory, graph theory, and the deve
 </a>
 <!-- <a href="wa.me/5358486223" target="_blank"><img alt="Steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=00AEFF&logo=Steam&logoColor=FFFFFF&label=" /></a> -->
 </div>
+
+
+
 <h2 align = "center">Projects</h2>
 <div align = "center">
-<h3>Current On Workig Project</h3>
+<!-- <details>
+<summary><kbd>Current On Workig Project</kbd></summary> -->
 <kbd>
   <div><img width="300" height="auto" src="assets/projects/arcane/Logo.png"></div>
+  <div align="left">
+
+  ## Arcane
+  Arcane es un juego digital innovador que fusiona un sofisticado sistema de combate basado en cartas con mecánicas roguelike tradicionales. El juego implementa tres especializaciones mágicas distintivas: Mago Elemental (dominio de elementos naturales), Mago Invocador (convocatoria de entidades sobrenaturales) y Mago de Sangre (manipulación de esencia vital).
+
+  El sistema técnico está construido sobre Unity con C#, incorporando principios SOLID y metodologías ágiles de desarrollo. Una característica distintiva es su sistema evolutivo de cartas, donde cada especialización cuenta con su propia biblioteca única de cartas mágicas.
+
+  Para garantizar accesibilidad global, Arcane implementa un avanzado sistema de internacionalización que soporta múltiples idiomas, incluyendo español, inglés, chino simplificado/tradicional, japonés, coreano, entre otros. 
+
+  El juego ofrece amplias posibilidades de expansión futura, incluyendo:
+  * Nuevos sistemas mágicos y especializaciones
+  * Expansión del sistema de progresión
+  * Modos multijugador
+  * Nuevas mecanicas de juego
+
+  ### Lenguages y Tecnologias
+  - **Unity**: Motor Grafico utilizado para generar el juego
+  - **C#**: El codigo del proyecto esta programado en c#
+  - **Python**: Se utiliza paralelamente para generar idiomas en tiempo de indexacion
+  - **OpenAI**: Biblioteca de python utilizada para automatizar la generacion de lenguages con modelos de NLP
+
+  ### Estado actual
+  Actualmente esta en modo de desarrollo y es un proyecto de codigo cerrado. En cuando se termine el proyecto se creara un repositorio de codigo abierto con objetivo solamente informativo.
   </div>
-
-## Arcane
-Arcane es un juego digital innovador que fusiona un sofisticado sistema de combate basado en cartas con mecánicas roguelike tradicionales. El juego implementa tres especializaciones mágicas distintivas: Mago Elemental (dominio de elementos naturales), Mago Invocador (convocatoria de entidades sobrenaturales) y Mago de Sangre (manipulación de esencia vital).
-
-El sistema técnico está construido sobre Unity con C#, incorporando principios SOLID y metodologías ágiles de desarrollo. Una característica distintiva es su sistema evolutivo de cartas, donde cada especialización cuenta con su propia biblioteca única de cartas mágicas.
-
-Para garantizar accesibilidad global, Arcane implementa un avanzado sistema de internacionalización que soporta múltiples idiomas, incluyendo español, inglés, chino simplificado/tradicional, japonés, coreano, entre otros. 
-
-El juego ofrece amplias posibilidades de expansión futura, incluyendo:
-* Nuevos sistemas mágicos y especializaciones
-* Expansión del sistema de progresión
-* Modos multijugador
-* Nuevas mecanicas de juego
-
-### Lenguages y Tecnologias
-- **Unity**: Motor Grafico utilizado para generar el juego
-- **C#**: El codigo del proyecto esta programado en c#
-- **Python**: Se utiliza paralelamente para generar idiomas en tiempo de indexacion
-- **OpenAI**: Biblioteca de python utilizada para automatizar la generacion de lenguages con modelos de NLP
-
-### Estado actual
-Actualmente esta en modo de desarrollo y es un proyecto de codigo cerrado. En cuando se termine el proyecto se creara un repositorio de codigo abierto con objetivo solamente informativo.
 </kbd>
+<!-- </div>
+</details> -->
