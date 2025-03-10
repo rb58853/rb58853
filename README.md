@@ -156,7 +156,57 @@ My professional interests lean towards number theory, graph theory, and the deve
 </div>
 </details>
 
+<!-- <details><summary align = "center"><kbd>OpenSource Projects</kbd></summary>
+</details>
+<details><summary align = "center"><kbd>Work Projects</kbd></summary>
+</details> -->
+<details><summary align = "center"><kbd>Scientist Projects</kbd></summary>
+<details><summary align = "center">Audio Genre Classification</summary>
+<div>
 
+## Audio Genre Classification
+
+The classification of music genres plays a crucial role in modern digital audio signal processing applications. In this study, we propose several machine learning approaches to accurately categorize music tracks into predefined genres. Each approach uses different sets of features that can be extracted from songs; ranging from common ones like MFCC (Mel-frequency cepstral coefficients) and direct audio signals to less explored features in this context such as song lyrics and Wavelet Transform. To evaluate the models, we use the GTZAN reference dataset in the field. The results obtained highlight that song lyrics do not contribute much to classification, at least in the dataset used. The other models show results consistent with the state of the art, with an accuracy between 75% and 80%.
+
+### Languages and Technologies
+* Machin Learning / Artificial Intelligence | Python
+* Models: CNN, RNN
+* Keywords: Music genre, CNN, spectrograms, MFCC, Conv1D, encoder
+
+<div align = "right">
+<kbd><a src="https://github.com/science-engineering-art/mugenfier">
+<img src="assets/github.svg" width="15" height="15" alt=""/> 
+repository</a></kbd>   
+<kbd><a src="https://rb58853.github.io/CV/projects/audioML/audioML.pdf">paper</a></kbd>
+<div>
+
+</div>
+</details>
+
+
+<details><summary align = "center">Image Retrieval System using Machine Learning</summary>
+<div>
+
+# Image Retrieval System using Machine Learning
+In this project, the problem of precise image retrieval is addressed. The work employs a new approach: the application of the Segment Anything (SAM) segmentation models and the Constractive Language-Image Pretraining (CLIP) model for the generation of multimodal embeddings. Special emphasis is placed on image retrieval via precise queries, taking into account the position of image segments that compose the same, processing both text and images.
+
+### Languages and Technologies
+* IRS / ML / AI | Python
+* Keywords: Embeddings, Multimodals Embeddings
+
+<div align = "right">
+<kbd><a src="https://github.com/rb58853/ML-RSI-Images">
+<img src="assets/github.svg" width="15" height="15" alt=""/> 
+repository</a></kbd>   
+<kbd><a src="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">paper</a></kbd>
+<div>
+
+</div>
+
+
+</details>
+
+</details>
 
 
 
