@@ -174,10 +174,15 @@ The classification of music genres plays a crucial role in modern digital audio 
 * Keywords: Music genre, CNN, spectrograms, MFCC, Conv1D, encoder
 
 <div align = "right">
-<kbd><a src="https://github.com/science-engineering-art/mugenfier">
+<a src="https://github.com/science-engineering-art/mugenfier">
+<!-- <kbd> -->
 <!-- <img src="assets/github.svg" width="15" height="15" alt=""/>  -->
-repository</a></kbd>   
-<kbd><a src="https://rb58853.github.io/CV/projects/audioML/audioML.pdf">paper</a></kbd>
+repository
+<!-- </kbd>    -->
+</a>|
+<!-- <kbd> -->
+<a src="https://rb58853.github.io/CV/projects/audioML/audioML.pdf">paper</a>
+<!-- </kbd> -->
 <div>
 
 </div>
@@ -195,10 +200,14 @@ In this project, the problem of precise image retrieval is addressed. The work e
 * Keywords: Embeddings, Multimodals Embeddings
 
 <div align = "right">
-<kbd><a src="https://github.com/rb58853/ML-RSI-Images">
+<!-- <kbd> -->
+<a src="https://github.com/rb58853/ML-RSI-Images">
 <!-- <img src="assets/github.svg" width="15" height="15" alt=""/>  -->
-repository</a></kbd>   
-<kbd><a src="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">paper</a></kbd>
+repository</a> |
+<!-- </kbd>    -->
+<!-- <kbd> -->
+<a src="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">paper</a>
+<!-- </kbd> -->
 <div>
 
 </div>
