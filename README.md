@@ -15,8 +15,9 @@ My professional interests lean towards number theory, graph theory, and the deve
 <p align="left"> <a href="https://www.github.com/rb58853" target="_blank" rel="noreferrer"><img src="assets/github.svg" width="30" height="30" /></a> <a href="https://t.me/rb58853" target="_blank" rel="noreferrer"><img src="assets/telegram.svg" width="30" height="30" /></a> <a href="mailto:rb58853@gmail.com" target="_blank" rel="noreferrer"><img src="assets/gmail.svg" width="30" height="30" /></a></p> -->
 
 
-<h2 align = "center"> Programing Languages</h2>
-<div align = "center">  
+<!-- <h2 align = "center"> Programing Languages</h2> -->
+## Programing Languages
+<div align = "left">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" minwidth= "44" minheight="44" width="44" height="44" alt="C#" title="C#"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python" title="Python"/>
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/asm.svg" width="44" height="44" alt="MIPS" title="Assembly"/>
@@ -32,15 +33,17 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 
-<h3 align="center">Markup Languages</h3>
-<div align="center">
+<!-- <h3 align="center">Markup Languages</h3> -->
+### Markup Languages
+<div align="left">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" title="CSS">
     <img src="assets/markdown.png" width="44" height="44" alt="Markdown" title="Markdown">
 </div>
 
-<h2 align = "center"> Skills</h2>
-<div align= "center">
+<!-- <h2 align = "center"> Skills</h2> -->
+## Skills
+<div align= "left">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" 
            width="44" height="44" alt="Unity" title="Unity"/>
     <img align="center" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
@@ -58,8 +61,9 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 
-<h3 align = "center"> Best frameworks and main libraries for Python3</h3>
-<div align = "center">
+<!-- <h3 align = "center"> Best frameworks and main libraries for Python3</h3> -->
+### Best frameworks and main libraries for Python3
+<div align = "left">
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/typesense.webp" width="44" height="44" alt="Python" title="Typesense"/>
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/openai.svg" width="44" height="44" alt="openai" title="OpenAI"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="Python" title="FastAPI"/>
@@ -72,8 +76,9 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 
-<h2 align = "center">Operative Systems</h2>
-<div align= "center">
+<!-- <h2 align = "center">Operative Systems</h2> -->
+## Operative Systems
+<div align= "left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="44" height="44"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  title="Debian" alt="Debian" width="44" height="44"/> 
   <img src="assets/windows.png"  title="Windows" alt="Windows" width="44" height="44"/> 
@@ -92,7 +97,8 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 
-<h2 align = "center">Github Stats</h2>
+<!-- <h2 align = "center">Github Stats</h2> -->
+## Github Stats
 <div align = "center">
 <img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=radical&hide_border=false&border_radius=5&card_width=1200">
 
@@ -124,12 +130,13 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 
 
-<h2 align="center">Some Projects</h2>
-<div align="center">
+<!-- <h2 align="center">Some Projects</h2> -->
+## Some Projects
+<div align="left">
     <details>
         <summary><kbd>Current Project I'm Working On</kbd></summary>
         <!-- <kbd> -->
-        <div><img width="300" height="auto" src="assets/projects/arcane/Logo.png"></div>
+        <div align= "center"><img width="300" height="auto" src="assets/projects/arcane/Logo.png"></div>
         <div align="left">
 
   ## Arcane
@@ -160,8 +167,8 @@ My professional interests lean towards number theory, graph theory, and the deve
 </details>
 <details><summary align = "center"><kbd>Work Projects</kbd></summary>
 </details> -->
-<details><summary align = "center"><kbd>Scientist Projects</kbd></summary>
-<details><summary align = "center">Audio Genre Classification</summary>
+<details><summary align = "left"><kbd>Scientist Projects</kbd></summary>
+<details><summary align = "left">Audio Genre Classification</summary>
 <div>
 
 ## Audio Genre Classification
@@ -184,7 +191,7 @@ repository</a></kbd>
 </details>
 
 
-<details><summary align = "center">Image Retrieval System using Machine Learning</summary>
+<details><summary align = "left">Image Retrieval System using Machine Learning</summary>
 <div>
 
 ## Image Retrieval System using Machine Learning
