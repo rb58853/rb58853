@@ -163,10 +163,6 @@ My professional interests lean towards number theory, graph theory, and the deve
 </div>
 </details>
 
-<!-- <details><summary align = "center"><kbd>OpenSource Projects</kbd></summary>
-</details>
-<details><summary align = "center"><kbd>Work Projects</kbd></summary>
-</details> -->
 <details><summary align = "left"><kbd>Scientist Projects</kbd></summary>
 <details><summary align = "left">Audio Genre Classification</summary>
 <div>
@@ -189,8 +185,6 @@ repository</a></kbd>
 
 </div>
 </details>
-
-
 <details><summary align = "left">Image Retrieval System using Machine Learning</summary>
 <div>
 
@@ -207,12 +201,8 @@ In this project, the problem of precise image retrieval is addressed. The work e
 repository</a></kbd>   
 <kbd><a href="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">paper</a></kbd>
 <div>
-
 </div>
-
-
 </details>
-
 </details>
 
 
