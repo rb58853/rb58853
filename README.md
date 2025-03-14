@@ -44,7 +44,8 @@ My professional interests lean towards number theory, graph theory, and the deve
 <!-- <h2 align = "center"> Skills</h2> -->
 ## Skills
 <a align= "left" href = "https://rb58853.github.io/CV/#/skills">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="44" height="44" alt="Unity" title="Unity"/>
+  <!-- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="44" height="44" alt="Unity" title="Unity"/> -->
+  <img align="center" src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
   <img align="center" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
   <img align="center" src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
   <img align="center" src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
