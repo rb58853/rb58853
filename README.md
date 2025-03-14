@@ -55,7 +55,7 @@ My professional interests lean towards number theory, graph theory, and the deve
   <img align="center" src="assets/OS.png" width="44" height="44" alt="C#" title="Operative Systems"/>
   <img align="center" src="assets/DS.png" width="44" height="44" alt="DS" title="Distributed Systems"/>
   <img align="center" src="assets/networks.png" width="44" height="44" alt="Networks" title="Networks"/>
-  <img align="center" src="assets/docker.png" width="44" height="44" alt="Docker" title="Docker"/>
+  <img align="center" src="assets/docker.png" width="44" height="33" alt="Docker" title="Docker"/>
 </a>
 
 
