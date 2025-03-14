@@ -17,7 +17,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 
 <!-- <h2 align = "center"> Programing Languages</h2> -->
 ## Programing Languages
-<div align = "left">  
+<a align= "left" href = "https://rb58853.github.io/CV/#/skills">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" minwidth= "44" minheight="44" width="44" height="44" alt="C#" title="C#"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="44" height="44" alt="Python" title="Python"/>
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/asm.svg" width="44" height="44" alt="MIPS" title="Assembly"/>
@@ -29,24 +29,23 @@ My professional interests lean towards number theory, graph theory, and the deve
     <img src="assets/Prolog.png" width="44" height="44" alt="Prolog" title="Prolog"/>
     <img src="assets/GO.png" width="44" height="44" alt="Golang" title="Golang"/> 
     <img src="assets/Haskell.png" width="44" height="44" alt="Haskell" title="Haskell"/> 
-</div>   
+</a>   
 
 
 
 <!-- <h3 align="center">Markup Languages</h3> -->
 ### Markup Languages
-<div align="left">
+<a align= "left" href = "https://rb58853.github.io/CV/#/skills">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" title="CSS">
     <img src="assets/markdown.png" width="44" height="44" alt="Markdown" title="Markdown">
-</div>
+</a>
 
 <!-- <h2 align = "center"> Skills</h2> -->
 ## Skills
-<div align= "left">
-      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" 
-           width="44" height="44" alt="Unity" title="Unity"/>
-    <img align="center" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
+<a align= "left" href = "https://rb58853.github.io/CV/#/skills">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="44" height="44" alt="Unity" title="Unity"/>
+  <img align="center" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
   <img align="center" src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
   <img align="center" src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
   <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
@@ -56,14 +55,14 @@ My professional interests lean towards number theory, graph theory, and the deve
   <img align="center" src="assets/DS.png" width="44" height="44" alt="DS" title="Distributed Systems"/>
   <img align="center" src="assets/networks.png" width="44" height="44" alt="Networks" title="Networks"/>
   <img align="center" src="assets/docker.png" width="44" height="44" alt="Docker" title="Docker"/>
-</div>
+</a>
 
 
 
 
 <!-- <h3 align = "center"> Best frameworks and main libraries for Python3</h3> -->
 ### Best frameworks and main libraries for Python3
-<div align = "left">
+<a align= "left" href = "https://rb58853.github.io/CV/#/skills">
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/typesense.webp" width="44" height="44" alt="Python" title="Typesense"/>
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/openai.svg" width="44" height="44" alt="openai" title="OpenAI"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="Python" title="FastAPI"/>
@@ -71,7 +70,7 @@ My professional interests lean towards number theory, graph theory, and the deve
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="44" height="44" title="Pytorch"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="44" height="44" title="Numpy"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="mpl" width="44" height="44" title="OpenCV"/>
-</div>
+</a>
 
 
 
