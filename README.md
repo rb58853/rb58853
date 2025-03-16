@@ -16,7 +16,6 @@ My professional interests lean towards number theory, graph theory, and the deve
 <p align="left"> <a href="https://www.github.com/rb58853" target="_blank" rel="noreferrer"><img src="assets/github.svg" width="30" height="30" /></a> <a href="https://t.me/rb58853" target="_blank" rel="noreferrer"><img src="assets/telegram.svg" width="30" height="30" /></a> <a href="mailto:rb58853@gmail.com" target="_blank" rel="noreferrer"><img src="assets/gmail.svg" width="30" height="30" /></a></p> -->
 
 
-<!-- <h2 align = "center"> Programing Languages</h2> -->
 ## Programing Languages
 <a align= "left" href = "https://rb58853.github.io/CV/#/skills">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" minwidth= "44" minheight="44" width="44" height="44" alt="C#" title="C#"/>
