@@ -11,6 +11,7 @@
 I am Raúl, a computer scientist with a solid background in mathematics. My specialty lies in the analysis and design of algorithms. My experience extends to the application of machine learning techniques and artificial intelligence, with my thesis project being in this field.
 My professional interests lean towards number theory, graph theory, and the development of solutions in the field of machine learning and artificial intelligence.
 
+
 <!-- **Socials**
 <p align="left"> <a href="https://www.github.com/rb58853" target="_blank" rel="noreferrer"><img src="assets/github.svg" width="30" height="30" /></a> <a href="https://t.me/rb58853" target="_blank" rel="noreferrer"><img src="assets/telegram.svg" width="30" height="30" /></a> <a href="mailto:rb58853@gmail.com" target="_blank" rel="noreferrer"><img src="assets/gmail.svg" width="30" height="30" /></a></p> -->
 
