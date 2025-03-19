@@ -224,6 +224,7 @@ repository</a></kbd>
 <a href="https://discord.gg/3v8KNJKM" target="_blank">
 <img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=7289DA&logo=Discord&logoColor=FFFFFF&label=" />
 </a>
+<a href="wa.me/5358486223" target="_blank">
 <img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Whatsapp&color=25D344&logo=Whatsapp&logoColor=FFFFFF&label=" />
 </a>
 <!-- <a href="wa.me/5358486223" target="_blank"><img alt="Steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=00AEFF&logo=Steam&logoColor=FFFFFF&label=" /></a> -->
