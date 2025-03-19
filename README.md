@@ -45,19 +45,18 @@ My professional interests lean towards number theory, graph theory, and the deve
 ## Skills
 <a align= "left" href = "https://rb58853.github.io/CV/#/skills">
   <!-- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="44" height="44" alt="Unity" title="Unity"/> -->
-  <img align="left" src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
-  <img align="left" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
-  <img align="left" src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
-  <img align="left" src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
-  <img align="left" src="assets/OS.png" width="44" height="44" alt="C#" title="Operative Systems"/>
-  <img align="left" src="assets/DS.png" width="44" height="44" alt="DS" title="Distributed Systems"/>
-  <img align="left" src="assets/networks.png" width="44" height="44" alt="Networks" title="Networks"/>
-  <img align="left" src="assets/docker.png" width="44" height="33" alt="Docker" title="Docker"/>
+  <img  src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
+  <img  src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
+  <img  src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
+  <img  src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
+  <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
+  <img  src="assets/OS.png" width="44" height="44" alt="C#" title="Operative Systems"/>
+  <img  src="assets/DS.png" width="44" height="44" alt="DS" title="Distributed Systems"/>
+  <img  src="assets/networks.png" width="44" height="44" alt="Networks" title="Networks"/>
+  <img src="assets/docker.png" width="44" height="33" alt="Docker" title="Docker"/>
 </a>
-
 
 
 
@@ -67,10 +66,13 @@ My professional interests lean towards number theory, graph theory, and the deve
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/typesense.webp" width="44" height="44" alt="Python" title="Typesense"/>
     <img src="https://github.com/rb58853/rb58853/raw/main/assets/openai.svg" width="44" height="44" alt="openai" title="OpenAI"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="Python" title="FastAPI"/>
+    <img src="assets/DeviconPytorch.png" title="Pytorch"  alt="Pytorch" width="44" height="44" title="Pytorch"/>
+    <img src="assets/Tensorflow.png" alt="Tensorflow" width="44" height="44" title="Tensorflow"/>
+    <img src="assets/Numpy.png" title="Numpy" alt="Numpy" width="44" height="44" title="Numpy"/>
+    <img src="assets/DeviconOpencv.png" alt="OpenCV" width="44" height="44" title="OpenCV"/>
+    <img src="assets/huggingface.png" alt="huggingface" width="44" height="44" title="huggingface"/>
+    <img src="assets/DeviconMatplotlib.png" alt="Matplotlib" width="44" height="44" title="Matplotlib"/>
     <img src="assets/django.png" width="44" height="44" alt="Django" title="Django"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="44" height="44" title="Pytorch"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="44" height="44" title="Numpy"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="mpl" width="44" height="44" title="OpenCV"/>
 </a>
 
 
@@ -81,7 +83,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 <div align= "left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="44" height="44"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  title="Debian" alt="Debian" width="44" height="44"/> 
-  <img src="assets/Mint.svg"  title="Mint" alt="Mint" width="44" height="44"/> 
+  <img src="assets/Mint.svg"  title="Mint(Ubuntu)" alt="Mint" width="44" height="44"/> 
   <img src="assets/windows.png"  title="Windows" alt="Windows" width="44" height="44"/> 
 </div>
 
