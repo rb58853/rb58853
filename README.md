@@ -45,17 +45,17 @@ My professional interests lean towards number theory, graph theory, and the deve
 ## Skills
 <a align= "left" href = "https://rb58853.github.io/CV/#/skills">
   <!-- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="44" height="44" alt="Unity" title="Unity"/> -->
-  <img align="center" src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
-  <img align="center" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
-  <img align="center" src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
-  <img align="center" src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
-  <img align="center" src="assets/OS.png" width="44" height="44" alt="C#" title="Operative Systems"/>
-  <img align="center" src="assets/DS.png" width="44" height="44" alt="DS" title="Distributed Systems"/>
-  <img align="center" src="assets/networks.png" width="44" height="44" alt="Networks" title="Networks"/>
-  <img align="center" src="assets/docker.png" width="44" height="33" alt="Docker" title="Docker"/>
+  <img align="left" src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
+  <img align="left" src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
+  <img align="left" src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
+  <img align="left" src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
+  <img align="left" src="assets/OS.png" width="44" height="44" alt="C#" title="Operative Systems"/>
+  <img align="left" src="assets/DS.png" width="44" height="44" alt="DS" title="Distributed Systems"/>
+  <img align="left" src="assets/networks.png" width="44" height="44" alt="Networks" title="Networks"/>
+  <img align="left" src="assets/docker.png" width="44" height="33" alt="Docker" title="Docker"/>
 </a>
 
 
@@ -81,6 +81,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 <div align= "left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="44" height="44"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  title="Debian" alt="Debian" width="44" height="44"/> 
+  <img src="assets/Mint.svg"  title="Mint" alt="Mint" width="44" height="44"/> 
   <img src="assets/windows.png"  title="Windows" alt="Windows" width="44" height="44"/> 
 </div>
 
@@ -218,7 +219,9 @@ repository</a></kbd>
 <a href="https://t.me/rb58853" target="_blank">
 <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=0088CC&logo=Telegram&logoColor=FFFFFF&label=" />
 </a>
-<a href="wa.me/5358486223" target="_blank">
+<a href="https://discord.gg/3v8KNJKM" target="_blank">
+<img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=7289DA&logo=Discord&logoColor=FFFFFF&label=" />
+</a>
 <img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Whatsapp&color=25D344&logo=Whatsapp&logoColor=FFFFFF&label=" />
 </a>
 <!-- <a href="wa.me/5358486223" target="_blank"><img alt="Steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=00AEFF&logo=Steam&logoColor=FFFFFF&label=" /></a> -->
