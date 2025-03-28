@@ -1,5 +1,5 @@
 # Hi, my name is Raul Beltran
-  
+
 ## Computer Scientist
 * 📍  I'm based in Havana, Cuba.
 * 🖥️  See my portfolio [here](https://rb58853.github.io/CV/)
