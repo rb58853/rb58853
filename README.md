@@ -192,11 +192,14 @@ In this project, the problem of precise image retrieval is addressed. The work e
 * Keywords: Embeddings, Multimodals Embeddings
 
 <div align = "right">
+<a href="https://wa.me/5358486223" target="_blank">
+<img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Whatsapp&color=25D344&logo=Whatsapp&logoColor=FFFFFF&label=" />
+</a>
 <a href="https://github.com/rb58853/ML-RSI-Images">
-<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github &color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github &color=24292e&logo=github&logoColor=FFFFFF&label="/>
 </a>
 <a href="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">
-<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Paper &color=DDDDDD&logo=None&logoColor=000000&label=" height = 30/>
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Paper &color=DDDDDD&logo=None&logoColor=000000&label="/>
 </div>
 </details>
 </details>
