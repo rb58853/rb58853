@@ -141,7 +141,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 <img alt="steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=steam&color=00adee&logo=Steam&logoColor=FFFFFF&label=" height = 30/>
 </a>
 <a href="" target="_blank">
-<img alt="play store" src="https://img.shields.io/static/v1?style=for-the-badge&message=Play Store&color=056559&logo=android&logoColor=FFFFFF&label=" height = 30/>
+<img alt="play store" src="https://img.shields.io/static/v1?style=for-the-badge&message=PlayStore&color=056559&logo=android&logoColor=FFFFFF&label=" height = 30/>
 <a href="https://github.com/rb58853/Arcane-Ascent" target="_blank">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
 </a>
