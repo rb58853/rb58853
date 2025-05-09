@@ -138,12 +138,12 @@ My professional interests lean towards number theory, graph theory, and the deve
 ----
 <div align=center>
 <a href="https://store.steampowered.com/app/3205630/Arcane_Ascent/" target="_blank">
-<img alt="steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=steam &color=00adee&logo=Steam&logoColor=FFFFFF&label=" height = 30/>
+<img alt="steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=steam&color=00adee&logo=Steam&logoColor=FFFFFF&label=" height = 30/>
 </a>
 <a href="" target="_blank">
-<img alt="play store" src="https://img.shields.io/static/v1?style=for-the-badge&message=Play Store &color=056559&logo=android&logoColor=FFFFFF&label=" height = 30/>
+<img alt="play store" src="https://img.shields.io/static/v1?style=for-the-badge&message=Play Store&color=056559&logo=android&logoColor=FFFFFF&label=" height = 30/>
 <a href="https://github.com/rb58853/Arcane-Ascent" target="_blank">
-<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github &color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
 </a>
 </div>
 
@@ -170,10 +170,10 @@ The classification of music genres plays a crucial role in modern digital audio 
 
 <div align = "right">
 <a href="https://github.com/science-engineering-art/mugenfier">
-<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github &color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
 </a>
 <a href="https://rb58853.github.io/CV/projects/audioML/audioML.pdf">
-<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Paper &color=DDDDDD&logo=None&logoColor=000000&label=" height = 30/>
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Paper&color=DDDDDD&logo=None&logoColor=000000&label=" height = 30/>
 </a>
 <div>
 
@@ -192,9 +192,6 @@ In this project, the problem of precise image retrieval is addressed. The work e
 * Keywords: Embeddings, Multimodals Embeddings
 
 <div align = "right">
-<a href="https://github.com/rb58853/ML-RSI-Images" target="_blank">
-<img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=25D344&logo=Github&logoColor=FFFFFF&label=" />
-</a>
 <a href="https://github.com/rb58853/ML-RSI-Images">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label="/>
 </a>
