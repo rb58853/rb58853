@@ -113,7 +113,7 @@ My professional interests lean towards number theory, graph theory, and the deve
         <div align="left">
 
 ## Arcane Ascent
-
+ 
   Arcane Ascent is an innovative digital game that combines a sophisticated card-based combat system with traditional roguelike mechanics. The game implements three distinctive magical specializations: Elemental Mage (dominion of natural elements), Summoner Mage (convocation of supernatural entities) and Blood Mage (manipulation of vital essence).
   The technical system is built on Unity with C#, incorporating SOLID principles and agile development methodologies. A distinctive feature is its evolutionary card system, where each specialization has its own unique library of magical cards.
   
