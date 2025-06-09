@@ -38,6 +38,7 @@ My professional interests lean towards number theory, graph theory, and the deve
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" title="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" title="CSS">
     <img src="assets/markdown.png" width="44" height="44" alt="Markdown" title="Markdown">
+    <img src="assets/Latex.png" width="44" height="44" alt="LaTex" title="LaTex">
 </a>
 
 <!-- <h2 align = "center"> Skills</h2> -->
@@ -113,7 +114,7 @@ My professional interests lean towards number theory, graph theory, and the deve
         <div align="left">
 
 ## Arcane Ascent
- 
+
   Arcane Ascent is an innovative digital game that combines a sophisticated card-based combat system with traditional roguelike mechanics. The game implements three distinctive magical specializations: Elemental Mage (dominion of natural elements), Summoner Mage (convocation of supernatural entities) and Blood Mage (manipulation of vital essence).
   The technical system is built on Unity with C#, incorporating SOLID principles and agile development methodologies. A distinctive feature is its evolutionary card system, where each specialization has its own unique library of magical cards.
   
