@@ -50,6 +50,7 @@ My professional interests lean towards number theory, graph theory, and the deve
   <img  src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
   <img  src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
   <img  src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
+  <img  src="assets/mcp.png" width="44" height="44" alt="MCP" title="Model Context Protocol"/>
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
@@ -173,10 +174,10 @@ The classification of music genres plays a crucial role in modern digital audio 
 <a href="https://rb58853.github.io/CV/projects/audioML/audioML.pdf">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Paper&color=DDDDDD&logo=None&logoColor=000000&label=" height = 30/>
 </a>
-<div>
-
+</div>
 </div>
 </details>
+
 <details><summary align = "left">Image Retrieval System using Machine Learning</summary>
 <div>
 
@@ -195,6 +196,40 @@ In this project, the problem of precise image retrieval is addressed. The work e
 </a>
 <a href="https://rb58853.github.io/CV/projects/IRSImagesCLIP/IRSImagesCLIP.pdf">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Paper&color=DDDDDD&logo=None&logoColor=000000&label="/>
+</a>
+</div>
+</div>
+</details>
+</details>
+
+
+<details>
+  <summary align = "left">
+    <kbd>
+    Util open source projects
+    </kbd>
+  </summary>
+<details>
+  <summary align = "left">
+  Python MCP Client
+  </summary>
+<div>
+
+## Python MCP Client
+Python client, based on `fastmcp`, for connecting to MCP servers through multiple protocols, specifically designed to work with integrated language models.
+This package provides a Python interface to connect to MCP servers in an easy, intuitive, and configurable way. It offers a modular architecture that allows for easy extension of new transfer protocols and language models. Currently includes support for HTTPStream and GPT-4 mini, with expansion capability for more options in the future.
+
+### Technologies
+
+* Model Context Protocol (MCP)
+* Large Language Model (LLM)
+
+<div align = "right">
+<a href="https://github.com/rb58853/python-mcp-client">
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+</a>
+</div>
+
 </div>
 </details>
 </details>
