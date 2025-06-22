@@ -1,5 +1,5 @@
 # Hi, my name is Raul Beltran
- 
+
 ## Computer Scientist
 
 * 🌍  I'm based in Havana, Cuba.
@@ -12,6 +12,7 @@
 I am Raúl, a computer scientist with a solid background in mathematics. My specialty lies in the analysis and design of algorithms. My experience extends to the application of machine learning techniques and artificial intelligence, with my thesis project being in this field.
 My professional interests lean towards number theory, graph theory, and the development of solutions in the field of machine learning and artificial intelligence.
 
+[![committers.top badge](https://user-badge.committers.top/cuba_private/rb58853.svg)](https://committers.top/cuba_private#rb58853)
 <!-- **Socials**
 <p align="left"> <a href="https://www.github.com/rb58853" target="_blank" rel="noreferrer"><img src="assets/github.svg" width="30" height="30" /></a> <a href="https://t.me/rb58853" target="_blank" rel="noreferrer"><img src="assets/telegram.svg" width="30" height="30" /></a> <a href="mailto:rb58853@gmail.com" target="_blank" rel="noreferrer"><img src="assets/gmail.svg" width="30" height="30" /></a></p> -->
 
@@ -97,8 +98,6 @@ My professional interests lean towards number theory, graph theory, and the deve
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&theme=radical&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
 
 ![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=radical)
-
-<!-- [![committers.top badge](https://user-badge.committers.top/cuba/rb58853.svg)](https://user-badge.committers.top/cuba/rb58853) -->
 
 </div>
 
@@ -202,7 +201,6 @@ In this project, the problem of precise image retrieval is addressed. The work e
 </details>
 </details>
 
-
 <details>
   <summary align = "left">
     <kbd>
@@ -216,6 +214,7 @@ In this project, the problem of precise image retrieval is addressed. The work e
 <div>
 
 ## Python MCP Client
+
 Python client, based on `fastmcp`, for connecting to MCP servers through multiple protocols, specifically designed to work with integrated language models.
 This package provides a Python interface to connect to MCP servers in an easy, intuitive, and configurable way. It offers a modular architecture that allows for easy extension of new transfer protocols and language models. Currently includes support for HTTPStream and GPT-4 mini, with expansion capability for more options in the future.
 
