@@ -235,16 +235,15 @@ This package provides a Python interface to connect to MCP servers in an easy, i
 
 ---
 <div align=center>
- <!-- <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A44C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> -->
+ <a href="https://www.linkedin.com/in/ra%C3%BAl-beltr%C3%A1n-g%C3%B3mez-44700a303/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=FFFFFF&label=" alt="Linkedin" /></a>
 <a href="mailto:rb58853@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://t.me/rb58853" target="_blank">
-<img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=0088CC&logo=Telegram&logoColor=FFFFFF&label=" />
+<img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
 </a>
 <a href="https://discord.gg/3v8KNJKM" target="_blank">
-<img alt="discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=7289DA&logo=Discord&logoColor=FFFFFF&label=" />
+<img alt="discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" />
 </a>
 <a href="https://wa.me/5358486223" target="_blank">
-<img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Whatsapp&color=25D344&logo=Whatsapp&logoColor=FFFFFF&label=" />
+<img alt="Whatsapp" src="https://img.shields.io/static/v1?style=for-the-badge&message=Whatsapp&color=25D366&logo=Whatsapp&logoColor=FFFFFF&label=" />
 </a>
-<!-- <a href="wa.me/5358486223" target="_blank"><img alt="Steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=00AEFF&logo=Steam&logoColor=FFFFFF&label=" /></a> -->
 </div>
