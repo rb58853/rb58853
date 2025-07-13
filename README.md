@@ -104,53 +104,6 @@ My professional interests lean towards number theory, graph theory, and the deve
 ## Some Projects
 
 <div align="left">
-    <details>
-        <summary><kbd>Game Dev</kbd></summary>
-        <!-- <kbd> -->
-        <div align= "center"><img width="300" height="auto" src="assets/projects/arcane/Logo.png"></div>
-        <div align="left">
-
-## Arcane Ascent
-
-  Arcane Ascent is an innovative digital game that combines a sophisticated card-based combat system with traditional roguelike mechanics. The game implements three distinctive magical specializations: Elemental Mage (dominion of natural elements), Summoner Mage (convocation of supernatural entities) and Blood Mage (manipulation of vital essence).
-  The technical system is built on Unity with C#, incorporating SOLID principles and agile development methodologies. A distinctive feature is its evolutionary card system, where each specialization has its own unique library of magical cards.
-  
-  To ensure global accessibility, Arcane implements an advanced internationalization system supporting multiple languages, including Spanish, English, Simplified/Traditional Chinese, Japanese, Korean, among others.
-
-  The game offers broad possibilities for future expansion, including:
-
-* New magical systems and specializations
-* Expansion of the progression system
-* Multiplayer modes
-* New gameplay mechanics
-
-### Languages and Technologies
-
-* **Unity**: Graphics engine used to generate the game
-* **C#**: Project code is programmed in C#
-* **Python**: Used in parallel to generate languages in indexing time
-* **OpenAI**: Python library used to automate language generation with NLP models
-  <!-- ### Current Status
-  Currently in development mode and is a closed-source project. Once the project is completed, an open-source repository will be created with purely informational purposes. -->
-
-----
-<div align=center>
-<a href="https://store.steampowered.com/app/3205630/Arcane_Ascent/" target="_blank">
-<img alt="steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=steam&color=00adee&logo=Steam&logoColor=FFFFFF&label=" height = 30/>
-</a>
-<a href="" target="_blank">
-<img alt="play store" src="https://img.shields.io/static/v1?style=for-the-badge&message=PlayStore&color=056559&logo=android&logoColor=FFFFFF&label=" height = 30/>
-<a href="https://github.com/rb58853/Arcane-Ascent" target="_blank">
-<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
-</a>
-</div>
-
-<p></p>
-
-</div>
-<!-- </kbd> -->
-</div>
-</details>
 
 <details><summary align = "left"><kbd>Scientist Projects</kbd></summary>
 <details><summary align = "left">Audio Genre Classification</summary>
@@ -209,11 +162,47 @@ In this project, the problem of precise image retrieval is addressed. The work e
   </summary>
 <details>
   <summary align = "left">
-  Python MCP Client
+  MCP Ecosystem
   </summary>
 <div>
 
-## Python MCP Client
+## MCP Ecosystem
+
+The **MCP Ecosystem** serves as a centralized hub for projects built around the Model Context Protocol (MCP), an open standard designed to seamlessly connect artificial intelligence applications with external data sources, tools, and services. This repository consolidates a diverse set of tools, servers, and client libraries that implement or extend MCP, making it easier for developers and organizations to integrate AI models with real-world data and functionalities.
+
+By providing reference implementations, modular components, and standardized interfaces, the MCP Ecosystem accelerates the adoption of MCP in both research and production environments. Whether you are building custom AI agents, deploying secure MCP servers, or experimenting with new integration protocols, this collection offers practical resources to streamline development and foster interoperability.
+
+Key features of the MCP Ecosystem include:
+
+* A curated set of repositories covering client libraries, authentication systems, server implementations, and integration templates.
+* Emphasis on security, extensibility, and adherence to MCP standards.
+* Comprehensive documentation and active community support to facilitate onboarding and collaboration.
+
+The MCP Ecosystem is ideal for anyone seeking to bridge the gap between advanced AI models and the complex landscape of external data and services, enabling scalable, secure, and future-proof integrations.
+
+### Technologies and Features
+
+* Model Context Protocol (MCP)
+* Large Language Model (LLM)
+* Standart Authorization (OAuth2)
+* Full Examples for mcp-client and mcp-server
+
+<div align = "right">
+<a href="https://github.com/rb58853/mcp-ecosystem">
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+</a>
+</div>
+
+</div>
+</details>
+
+<details>
+  <summary align = "left">
+  MCP LLM Client
+  </summary>
+<div>
+
+## MCP LLM Client
 
 Python client, based on `fastmcp`, for connecting to MCP servers through multiple protocols, specifically designed to work with integrated language models.
 This package provides a Python interface to connect to MCP servers in an easy, intuitive, and configurable way. It offers a modular architecture that allows for easy extension of new transfer protocols and language models. Currently includes support for HTTPStream and GPT-4 mini, with expansion capability for more options in the future.
@@ -223,14 +212,108 @@ This package provides a Python interface to connect to MCP servers in an easy, i
 * Model Context Protocol (MCP)
 * Large Language Model (LLM)
 
+### Installation
+```shell
+pipx install mcp-llm-client
+```
+
 <div align = "right">
-<a href="https://github.com/rb58853/python-mcp-client">
+<a href="https://github.com/rb58853/mcp-llm-client">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+<a href="https://pypi.org/project/mcp-llm-client/">
+<img alt="pypi" src="https://img.shields.io/static/v1?style=for-the-badge&message=PYPI&color=4584b6&logo=pypi&logoColor=FFFFFF&label=" height = 30/>
+</a>
 </a>
 </div>
 
 </div>
 </details>
+
+<details>
+  <summary align = "left">
+  MCP OAuth
+  </summary>
+<div>
+
+## MCP OAuth
+
+This project represents a simple and extensible OAuth system in Python, integrated as much as possible with MCP standards and practices. Its goal is to facilitate the use of the OAuth system for MCP. It is integrated with the official MCP Python SDK (`"mcp[cli]"`), following the source code standard that provides the basis for the entire authorization system used and controlled by `FastMCP`.
+
+Both an OAuth server and client are implemented, respecting the most common standards to maintain standardization. It is important to highlight that the OAuth server standard in the MCP context is still poorly defined and with scarce documentation, so the greatest possible standardization has been sought both in the server and client code.
+
+This repository starts from the Antropic example in the [official repository](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples), modifying and restructuring the code to achieve optimal organization, facilitating practical and easy use when installing this repository as a pip package.
+
+### Technologies
+
+* Model Context Protocol (MCP)
+* Authorization (OAuth2)
+* MCP Cient
+* MCP Server
+
+### Installation
+```shell
+pipx install mcp-oauth
+```
+
+<div align = "right">
+<a href="https://github.com/rb58853/mcp-oauth">
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+<a href="https://pypi.org/project/mcp-oauth/">
+<img alt="pypi" src="https://img.shields.io/static/v1?style=for-the-badge&message=PYPI&color=4584b6&logo=pypi&logoColor=FFFFFF&label=" height = 30/>
+</a>
+</div>
+
+</div>
+</details>
+
+</details>
+
+<details>
+        <summary><kbd>Game Dev</kbd></summary>
+        <!-- <kbd> -->
+        <div align= "center"><img width="300" height="auto" src="assets/projects/arcane/Logo.png"></div>
+        <div align="left">
+
+## Arcane Ascent
+
+  Arcane Ascent is an innovative digital game that combines a sophisticated card-based combat system with traditional roguelike mechanics. The game implements three distinctive magical specializations: Elemental Mage (dominion of natural elements), Summoner Mage (convocation of supernatural entities) and Blood Mage (manipulation of vital essence).
+  The technical system is built on Unity with C#, incorporating SOLID principles and agile development methodologies. A distinctive feature is its evolutionary card system, where each specialization has its own unique library of magical cards.
+  
+  To ensure global accessibility, Arcane implements an advanced internationalization system supporting multiple languages, including Spanish, English, Simplified/Traditional Chinese, Japanese, Korean, among others.
+
+  The game offers broad possibilities for future expansion, including:
+
+* New magical systems and specializations
+* Expansion of the progression system
+* Multiplayer modes
+* New gameplay mechanics
+
+### Languages and Technologies
+
+* **Unity**: Graphics engine used to generate the game
+* **C#**: Project code is programmed in C#
+* **Python**: Used in parallel to generate languages in indexing time
+* **OpenAI**: Python library used to automate language generation with NLP models
+  <!-- ### Current Status
+  Currently in development mode and is a closed-source project. Once the project is completed, an open-source repository will be created with purely informational purposes. -->
+
+----
+<div align=center>
+<a href="https://store.steampowered.com/app/3205630/Arcane_Ascent/" target="_blank">
+<img alt="steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=steam&color=00adee&logo=Steam&logoColor=FFFFFF&label=" height = 30/>
+</a>
+<a href="" target="_blank">
+<img alt="play store" src="https://img.shields.io/static/v1?style=for-the-badge&message=PlayStore&color=056559&logo=android&logoColor=FFFFFF&label=" height = 30/>
+<a href="https://github.com/rb58853/Arcane-Ascent" target="_blank">
+<img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
+</a>
+</div>
+
+<p></p>
+
+</div>
+<!-- </kbd> -->
+</div>
 </details>
 
 ---
