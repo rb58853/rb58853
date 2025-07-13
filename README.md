@@ -90,14 +90,32 @@ My professional interests lean towards number theory, graph theory, and the deve
 <!-- <h2 align = "center">Github Stats</h2> -->
 ## Github Stats
 
-<div align = "center">
-<img width="1200" height="auto" src="https://streak-stats.demolab.com?user=rb58853&theme=radical&hide_border=false&border_radius=5&card_width=1200">
+<div align="center">
+  <table border="none" align="center">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=tokyonight&hide_border=true" alt="Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&&theme=tokyonight&hide_border=true" alt="Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rb58853&theme=tokyonight&hide_border=true" alt="Profile Summary" />
+      </td>
+    </tr>
+  </table>
 
-[![Resumen del Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rb58853&theme=radical)](https://github.com/rb58853)
 
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&theme=radical&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&&theme=tokyonight&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
+</div>
 
-![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=radical)
 
 </div>
 
@@ -213,6 +231,7 @@ This package provides a Python interface to connect to MCP servers in an easy, i
 * Large Language Model (LLM)
 
 ### Installation
+
 ```shell
 pipx install mcp-llm-client
 ```
@@ -251,6 +270,7 @@ This repository starts from the Antropic example in the [official repository](ht
 * MCP Server
 
 ### Installation
+
 ```shell
 pipx install mcp-oauth
 ```
