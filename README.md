@@ -91,7 +91,7 @@ My professional interests lean towards number theory, graph theory, and the deve
 ## Github Stats
 
 <div align="center">
-  <table border="none" align="center">
+  <table  align="center">
     <tr>
       <td align="center" style="padding: 10px;">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
