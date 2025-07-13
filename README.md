@@ -220,7 +220,7 @@ pipx install mcp-llm-client
 <div align = "right">
 <a href="https://github.com/rb58853/mcp-llm-client">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
-<a href="https://pypi.org/project/mcp-llm-client/">
+<a href="https://pypi.org/project/mcp-llm-client">
 <img alt="pypi" src="https://img.shields.io/static/v1?style=for-the-badge&message=PYPI&color=4584b6&logo=pypi&logoColor=FFFFFF&label=" height = 30/>
 </a>
 </a>
@@ -258,7 +258,7 @@ pipx install mcp-oauth
 <div align = "right">
 <a href="https://github.com/rb58853/mcp-oauth">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
-<a href="https://pypi.org/project/mcp-oauth/">
+<a href="https://pypi.org/project/mcp-oauth">
 <img alt="pypi" src="https://img.shields.io/static/v1?style=for-the-badge&message=PYPI&color=4584b6&logo=pypi&logoColor=FFFFFF&label=" height = 30/>
 </a>
 </div>
