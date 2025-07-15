@@ -9,10 +9,9 @@
 
 ### About Me
 
-I am Raúl, a computer scientist with a solid background in mathematics. My specialty lies in the analysis and design of algorithms. My experience extends to the application of machine learning techniques and artificial intelligence.
-My professional interests lean towards number theory, graph theory, and the development of solutions in the field of artificial intelligence.
+I am a computer scientist graduated from the University of Havana, with a special interest in the analysis and design of algorithms. I have experience in the research and application of machine learning and artificial intelligence techniques. I am passionate about number theory and graph theory.
 
-[![committers.top badge](https://user-badge.committers.top/cuba_private/rb58853.svg)](https://committers.top/cuba_private#rb58853)
+<!-- [![committers.top badge](https://user-badge.committers.top/cuba_private/rb58853.svg)](https://committers.top/cuba_private#rb58853) -->
 
 ## Programing Languages
 
@@ -110,10 +109,8 @@ My professional interests lean towards number theory, graph theory, and the deve
     </tr>
   </table>
 
-
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&&theme=tokyonight&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
 </div>
-
 
 </div>
 
