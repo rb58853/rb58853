@@ -333,7 +333,7 @@ pipx install mcp-oauth
 
 ---
 <div align=center>
- <a href="https://www.linkedin.com/in/ra%C3%BAl-beltr%C3%A1n-44700a303/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=FFFFFF&label=" alt="Linkedin" /></a>
+ <a href="https://www.linkedin.com/in/rb58853/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=FFFFFF&label=" alt="Linkedin" /></a>
 <a href="mailto:rb58853@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 <a href="https://t.me/rb58853" target="_blank">
 <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />
