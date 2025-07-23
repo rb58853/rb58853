@@ -89,18 +89,27 @@ I am a computer scientist graduated from the University of Havana, with a specia
 
 <div align="center">
   <table  align="center">
+  <tr>
+      <td colspan="2" align="center" style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rb58853&theme=gruvbox&hide_border=true&card_width=1080" alt="Profile Summary" />
+      </td>
+    </tr>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=540" alt="Statistics" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true" alt="Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true&card_width=540" alt="Streak" />
       </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 10px; width">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true&card_width=1080" alt="Languages" />
+      </td>
+    </tr>
   </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rb58853&theme=gruvbox&hide_border=true" alt="Profile Summary" />
 
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&&theme=gruvbox&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
 </div>
 
 </div>
