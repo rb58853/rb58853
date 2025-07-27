@@ -104,7 +104,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true&card_width=540" alt="Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true" alt="Streak" />
       </td>
     </tr>
   </table>
