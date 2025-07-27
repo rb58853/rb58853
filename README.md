@@ -99,12 +99,12 @@ I am a computer scientist graduated from the University of Havana, with a specia
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=540" alt="Statistics" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true&card_width=540" alt="Streak" />
-      </td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" alt="Languages" />
+        </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="padding: 10px; width">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true&card_width=1080" alt="Languages" />
+      <td colspan="2" align="center" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true&card_width=540" alt="Streak" />
       </td>
     </tr>
   </table>
