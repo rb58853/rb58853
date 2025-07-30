@@ -1,7 +1,7 @@
 # Hi, my name is Raul Beltran
 
 ## Computer Scientist
-
+ 
 * 🌍  I'm based in Havana, Cuba.
 * 🖥️  See my portfolio [here](https://rb58853.github.io/CV/)
 * 🗒️  See my CV [here](https://github.com/rb58853/rb58853/raw/main/assets/cv.pdf)
@@ -108,10 +108,8 @@ I am a computer scientist graduated from the University of Havana, with a specia
       </td>
     </tr>
   </table>
-
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=4&hide=no-frame,stars)](https://github.com/rb58853)
+ <img src="https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=6&hide=no-frame"/>
 </div>
-
 </div>
 
 ## Some Projects
