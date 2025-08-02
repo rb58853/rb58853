@@ -209,13 +209,13 @@ The MCP Ecosystem is ideal for anyone seeking to bridge the gap between advanced
 
 <details>
   <summary align = "left">
-  MCP LLM Client
+  Fastchat-mcp
   </summary>
 <div>
 
-## MCP LLM Client
+## fastchat-mcp
 
-Python client, based on `fastmcp`, for connecting to MCP servers through multiple protocols, specifically designed to work with integrated language models.
+Python client, based on `mcp[cli]`, for connecting to MCP servers through multiple protocols, specifically designed to work with integrated language models.
 This package provides a Python interface to connect to MCP servers in an easy, intuitive, and configurable way. It offers a modular architecture that allows for easy extension of new transfer protocols and language models. Currently includes support for HTTPStream and GPT-4 mini, with expansion capability for more options in the future.
 
 ### Technologies
@@ -226,13 +226,13 @@ This package provides a Python interface to connect to MCP servers in an easy, i
 ### Installation
 
 ```shell
-pipx install mcp-llm-client
+pipx install fastchat-mcp
 ```
 
 <div align = "right">
-<a href="https://github.com/rb58853/mcp-llm-client">
+<a href="https://github.com/rb58853/fastchat-mcp">
 <img alt="github" src="https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=24292e&logo=github&logoColor=FFFFFF&label=" height = 30/>
-<a href="https://pypi.org/project/mcp-llm-client">
+<a href="https://pypi.org/project/fastchat-mcp">
 <img alt="pypi" src="https://img.shields.io/static/v1?style=for-the-badge&message=PYPI&color=4584b6&logo=pypi&logoColor=FFFFFF&label=" height = 30/>
 </a>
 </a>
