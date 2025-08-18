@@ -44,11 +44,11 @@ I am a computer scientist graduated from the University of Havana, with a specia
 
 <a align= "left" href = "https://rb58853.github.io/CV/#/skills">
   <!-- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="44" height="44" alt="Unity" title="Unity"/> -->
-  <img  src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
+  <img  src="assets/mcp.png" width="44" height="44" alt="MCP" title="Model Context Protocol"/>
   <img  src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
+  <img  src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
   <img  src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
   <img  src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
-  <img  src="assets/mcp.png" width="44" height="44" alt="MCP" title="Model Context Protocol"/>
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
