@@ -108,7 +108,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
       </td>
     </tr>
   </table>
- <img src="https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=6&hide=no-frame"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=4&hide=no-frame"/>
 </div>
 </div>
 
