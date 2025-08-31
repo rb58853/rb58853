@@ -27,6 +27,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
     <img src="assets/Prolog.png" width="44" height="44" alt="Prolog" title="Prolog"/>
     <img src="assets/GO.png" width="44" height="44" alt="Golang" title="Golang"/>
     <img src="assets/Haskell.png" width="44" height="44" alt="Haskell" title="Haskell"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="44" height="44" alt="Dart" title="PHP"/>
 </a>
 
 <!-- <h3 align="center">Markup Languages</h3> -->
@@ -50,6 +51,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
   <img  src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
   <img  src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="44" height="33" alt="Laravel" title="Laravel"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="C#" title="ReactJS"/>
   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="C#" title="Flutter" />
   <img  src="assets/OS.png" width="44" height="44" alt="C#" title="Operative Systems"/>
