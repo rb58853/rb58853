@@ -24,6 +24,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
     <img src="assets/c.png" width="44" height="44" alt="C" title="C"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="44" height="44" alt="Dart" title="Dart"/>
     <img src="assets/SkillIconsRust.png" width="44" height="44" alt="RUST" title="Rust"/>
+    <img src="assets/gdscript.png" width="44" height="44" alt="Gdscript" title="Gdscript"/>
     <img src="assets/Prolog.png" width="44" height="44" alt="Prolog" title="Prolog"/>
     <img src="assets/GO.png" width="44" height="44" alt="Golang" title="Golang"/>
     <img src="assets/Haskell.png" width="44" height="44" alt="Haskell" title="Haskell"/>
@@ -48,6 +49,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
   <img  src="assets/mcp.png" width="44" height="44" alt="MCP" title="Model Context Protocol"/>
   <img  src="assets/AI.png" width="44" height="44" alt="Python" title="Artificial Intelligence"/>
   <img  src="assets/Unity.png" width="44" height="44" alt="Unity" title="Unity"/>
+  <img  src="assets/godot.png" width="44" height="44" alt="Godot" title="Godot"/>
   <img  src="assets/SRI.png" width="44" height="44" alt="C#" title="Information Retrieval Systems"/>
   <img  src="assets/compiler.png" width="44" height="44" alt="Compilers" title="Compilers"/>
   <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="44" height="44" alt=".NET" title=".Net"/>
