@@ -100,11 +100,11 @@ I am a computer scientist graduated from the University of Havana, with a specia
     </tr>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=540" alt="Statistics" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=1080" alt="Statistics" />
       </td>
-      <td align="center" style="padding: 10px;">
+      <!-- <td align="center" style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb58853&hide=css,html,jupyter%20notebook&layout=compact&theme=gruvbox&hide_border=true" alt="Languages" />
-        </td>
+        </td> -->
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
@@ -112,7 +112,7 @@ I am a computer scientist graduated from the University of Havana, with a specia
       </td>
     </tr>
   </table>
- <img src="https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=4&hide=no-frame"/>
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=rb58853&theme=gruvbox&row=1&column=4&hide=no-frame"/> -->
 </div>
 </div>
 
