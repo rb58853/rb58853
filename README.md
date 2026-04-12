@@ -3,8 +3,8 @@
 ## Computer Scientist
 
 * 🌍  I'm based in Madrid, Spain.
-* 🖥️  See my portfolio [here](https://rb58853.github.io/CV/)
-* 🗒️  See my CV [here](https://github.com/rb58853/rb58853/raw/main/assets/cv.pdf)
+* 🖥️  See my portfolio [here](https://portfolio.rb58853.net)
+* 🗒️  See my cv [here](https://github.com/rb58853/rb58853/raw/main/assets/cv.pdf)
 * 🤝🏻  I'm open to collaborating on interesting projects
 
 ### About Me
