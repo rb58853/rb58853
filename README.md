@@ -6,25 +6,6 @@
 
 <p align="center">
   <a href="https://portfolio.rb58853.net"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/rb58853/rb58853/raw/main/assets/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <!-- <a href="mailto:rb58853@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> -->
-</p>
-<!-- 
-<p align="center">
-  <a href="https://github.com/rb58853?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/rb58853?style=for-the-badge&logo=github&label=Followers&color=0ea5e9">
-  </a>
-  <a href="https://github.com/rb58853?tab=repositories">
-    <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frb58853&color=16a34a">
-  </a>
-  <a href="https://github.com/rb58853?tab=stars">
-    <img alt="Total Stars" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Frb58853&color=f59e0b">
-  </a>
-</p> -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rb58853&style=flat-square&color=8b5cf6" alt="Profile views">
-</p> -->
 
 ## About Me
 
@@ -39,19 +20,19 @@
 ### Programming Languages
 
 <a align="left" href="https://portfolio.rb58853.net/skills">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#"/> 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" title="Python"/> 
-  <img src="https://github.com/rb58853/rb58853/raw/main/assets/asm.svg" width="42" height="42" alt="Assembly" title="Assembly"/> 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++"/> 
-  <img src="assets/c.png" width="42" height="42" alt="C" title="C"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" title="Dart"/> 
-  <img src="assets/SkillIconsRust.png" width="42" height="42" alt="Rust" title="Rust"/> 
-  <img src="assets/gdscript.png" width="42" height="42" alt="GDScript" title="GDScript"/> 
-  <img src="assets/Prolog.png" width="42" height="42" alt="Prolog" title="Prolog"/> 
-  <img src="assets/GO.png" width="42" height="42" alt="Go" title="Go"/> 
-  <img src="assets/Haskell.png" width="42" height="42" alt="Haskell" title="Haskell"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" title="Python"/> 
+<img src="https://github.com/rb58853/rb58853/raw/main/assets/asm.svg" width="42" height="42" alt="Assembly" title="Assembly"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++"/> 
+<img src="assets/c.png" width="42" height="42" alt="C" title="C"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" title="Dart"/> 
+<img src="assets/SkillIconsRust.png" width="42" height="42" alt="Rust" title="Rust"/> 
+<img src="assets/gdscript.png" width="42" height="42" alt="GDScript" title="GDScript"/> 
+<img src="assets/Prolog.png" width="42" height="42" alt="Prolog" title="Prolog"/> 
+<img src="assets/GO.png" width="42" height="42" alt="Go" title="Go"/> 
+<img src="assets/Haskell.png" width="42" height="42" alt="Haskell" title="Haskell"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP"/>
 </a>
 
 ### Markup and Documentation
