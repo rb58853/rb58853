@@ -38,33 +38,33 @@
 
 ### Programming Languages
 
-<p align="left">
+<a align="left" href="https://portfolio.rb58853.net/skills">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" title="Python"/> <img src="https://github.com/rb58853/rb58853/raw/main/assets/asm.svg" width="42" height="42" alt="Assembly" title="Assembly"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++"/> <img src="assets/c.png" width="42" height="42" alt="C" title="C"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" title="Dart"/> <img src="assets/SkillIconsRust.png" width="42" height="42" alt="Rust" title="Rust"/> <img src="assets/gdscript.png" width="42" height="42" alt="GDScript" title="GDScript"/> <img src="assets/Prolog.png" width="42" height="42" alt="Prolog" title="Prolog"/> <img src="assets/GO.png" width="42" height="42" alt="Go" title="Go"/> <img src="assets/Haskell.png" width="42" height="42" alt="Haskell" title="Haskell"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" title="PHP"/>
-</p>
+</a>
 
 ### Markup and Documentation
 
-<p align="left">
+<a align="left" href="https://portfolio.rb58853.net/skills">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" title="CSS"/> <img src="assets/markdown.png" width="42" height="42" alt="Markdown" title="Markdown"/> <img src="assets/Latex.png" width="42" height="42" alt="LaTeX" title="LaTeX"/>
-</p>
+</a>
 
 ### Platforms and Technologies
 
-<p align="left">
+<a align="left" href="https://portfolio.rb58853.net/skills">
   <img src="assets/mcp.png" width="42" height="42" alt="MCP" title="Model Context Protocol"/> <img src="assets/AI.png" width="42" height="42" alt="AI" title="Artificial Intelligence"/> <img src="assets/Unity.png" width="42" height="42" alt="Unity" title="Unity"/> <img src="assets/godot.png" width="42" height="42" alt="Godot" title="Godot"/> <img src="assets/SRI.png" width="42" height="42" alt="Information Retrieval" title="Information Retrieval Systems"/> <img src="assets/compiler.png" width="42" height="42" alt="Compilers" title="Compilers"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="42" height="42" alt=".NET" title=".NET"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" title="Laravel"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" title="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" title="Flutter"/> <img src="assets/OS.png" width="42" height="42" alt="Operating Systems" title="Operating Systems"/> <img src="assets/DS.png" width="42" height="42" alt="Distributed Systems" title="Distributed Systems"/> <img src="assets/networks.png" width="42" height="42" alt="Networks" title="Networks"/> <img src="assets/docker.png" width="42" height="42" alt="Docker" title="Docker"/>
-</p>
+</a>
 
 ### Python Ecosystem
 
-<p align="left">
+<a align="left" href="https://portfolio.rb58853.net/skills">
   <img src="https://github.com/rb58853/rb58853/raw/main/assets/typesense.webp" width="42" height="42" alt="Typesense" title="Typesense"/> <img src="https://github.com/rb58853/rb58853/raw/main/assets/openai.svg" width="42" height="42" alt="OpenAI" title="OpenAI"/> <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI"/> <img src="assets/DeviconPytorch.png" width="42" height="42" alt="PyTorch" title="PyTorch"/> <img src="assets/Tensorflow.png" width="42" height="42" alt="TensorFlow" title="TensorFlow"/> <img src="assets/Numpy.png" width="42" height="42" alt="NumPy" title="NumPy"/> <img src="assets/DeviconOpencv.png" width="42" height="42" alt="OpenCV" title="OpenCV"/> <img src="assets/huggingface.png" width="42" height="42" alt="Hugging Face" title="Hugging Face"/> <img src="assets/DeviconMatplotlib.png" width="42" height="42" alt="Matplotlib" title="Matplotlib"/> <img src="assets/django.png" width="42" height="42" alt="Django" title="Django"/>
-</p>
+</a>
 
 ### Operating Systems
 
-<p align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="42" height="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="42" height="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="42" height="42"/> <img src="assets/Mint.svg" title="Linux Mint" alt="Linux Mint" width="42" height="42"/> <img src="assets/windows.png" title="Windows" alt="Windows" width="42" height="42"/>
-</p>
+</div>
 
 
 
