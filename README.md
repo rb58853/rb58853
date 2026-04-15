@@ -16,8 +16,6 @@
 - Interested in number theory, graph theory, and practical AI systems.
 - Open to collaborating on meaningful projects.
 
-## Core Stack
-
 ## Programing Languages
 
 <a align= "left" href = "https://rb58853.github.io/CV/#/skills">
