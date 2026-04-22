@@ -1,0 +1,90 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=0.72in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{enumitem}
+
+\definecolor{primary}{HTML}{0F4C5C}
+\definecolor{textmain}{HTML}{1F2933}
+\definecolor{textmuted}{HTML}{5B6470}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.25em}
+\setlist[itemize]{leftmargin=1.2em, itemsep=0.2em, topsep=0.2em, parsep=0em, partopsep=0em}
+\renewcommand{\labelitemi}{\textcolor{primary}{\small$\bullet$}}
+
+\newcommand{\cvsection}[1]{
+  \vspace{0.7em}
+  {\large\textbf{\textcolor{primary}{\textsc{#1}}}}\\[-0.35em]
+  {\color{primary}\rule{\linewidth}{0.8pt}}
+  \vspace{0.15em}
+}
+
+\newcommand{\cvjob}[4]{
+  \begin{tabularx}{\linewidth}{@{}Xr@{}}
+    \textbf{#1} & \textcolor{textmuted}{#2}\\
+    \textit{#3} & \textit{\textcolor{textmuted}{#4}}
+  \end{tabularx}
+}
+
+\newcommand{\tightitems}{
+  \setlength{\itemsep}{0.1em}
+  \setlength{\parskip}{0em}
+  \setlength{\parsep}{0em}
+}
+
+\begin{document}
+\color{textmain}
+
+{\Huge\textbf{\textcolor{primary}{Ra\'ul Beltr\'an G\'omez}}}\\[-0.15em]
+{\small \textcolor{textmuted}{Madrid, Spain (Spanish Citizenship) \textbar{} +34 642 58 15 03 \textbar{} rb58853@gmail.com}}\\
+{\small
+\href{https://github.com/rb58853}{github.com/rb58853}
+\textcolor{textmuted}{\ \textbar\ }
+\href{https://portfolio.rb58853.net}{portfolio.rb58853.net}
+\textcolor{textmuted}{\ \textbar\ }
+\href{https://www.linkedin.com/in/rb58853/}{linkedin.com/in/rb58853}}
+
+\vspace{0.2em}
+{\color{primary}\rule{\linewidth}{1pt}}
+
+\cvsection{Professional Summary}
+Backend and AI developer with experience building production systems with MCP, LLMs, NLP, and REST APIs. Strong background in chatbot architecture, secure integrations, and Unity/Python cross-stack development for real products.
+
+\cvsection{Experience}
+\cvjob{Cogitia}{Havana, Cuba (Remote for Madrid, Spain)}{MCP, LLM, Chatbot and REST API Developer}{14/05/2025 -- 14/02/2026}
+\begin{itemize}
+  \tightitems
+  \item Designed and maintained MCP servers for enterprise workflows using embedded LLM clients and robust prompt/tool/resource patterns.
+  \item Implemented secure authentication flows (OAuth 2.1 and header-based auth) and scalable integrations with internal systems.
+  \item Built NLP-driven modules for business automation, including data operations, scheduling, and internal query handling.
+\end{itemize}
+
+\cvjob{Word Games}{Havana, Cuba (Remote for Bogot\'a, Colombia)}{Game Developer, Development Team}{20/10/2024 -- 10/05/2025}
+\begin{itemize}
+  \tightitems
+  \item Led end-to-end programming of Arcane Ascent (deck-building roguelike) and shipped the title on Steam Early Access.
+  \item Integrated native Steam systems (achievements and saves), improving platform readiness and user experience.
+  \item Developed an automated language-generation pipeline using NLP + OpenAI, with JSON-based Python--Unity interoperability.
+\end{itemize}
+
+\cvjob{Devman}{Havana, Cuba (Remote for Madrid, Spain)}{NLP, Chatbot and REST API Developer}{10/04/2024 -- 14/10/2024}
+\begin{itemize}
+  \tightitems
+  \item Architected an e-commerce assistant combining NLP intent handling and product retrieval for faster discovery.
+  \item Built backend services in FastAPI, including API key security, WebSocket chat, and authorization layers.
+\end{itemize}
+
+\cvsection{Education}
+\textbf{University of Havana} \hfill Havana, Cuba\\
+\textit{Bachelor of Computer Science} \hfill Expected 23/01/2024
+
+\cvsection{Skills}
+\textbf{Languages:} Spanish (native), English (B1).\\
+\textbf{Programming:} Python, C\#, C/C++, JavaScript, Assembly (MIPS).\\
+\textbf{Technical:} MCP, LLMs, NLP, RAG, FastAPI, TensorFlow, PyTorch, .NET, Databases, ReactJS, Unity Engine.
+
+\end{document}
