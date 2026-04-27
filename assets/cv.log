@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.22)  22 APR 2026 14:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.22)  27 APR 2026 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/rb58853/Projects/Privates/rb58853/assets/cv.tex
-(/home/rb58853/Projects/Privates/rb58853/assets/cv.tex
+**cv.tex
+(./cv.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -250,7 +250,7 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box55
 )
-(/home/rb58853/Projects/Privates/rb58853/assets/cv.aux)
+(./cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -307,8 +307,7 @@ LaTeX Font Info:    ... okay on input line 39.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 39.
-(/home/rb58853/Projects/Privates/rb58853/assets/cv.out)
-(/home/rb58853/Projects/Privates/rb58853/assets/cv.out)
+(./cv.out) (./cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
@@ -341,8 +340,7 @@ g NLP + Ope-nAI, with JSON-based Python--
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(/home/rb58853/Projects/Privates/rb58853/assets/cv.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -351,13 +349,13 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9726 strings out of 475178
- 149478 string characters out of 5766539
- 564236 words of memory out of 5000000
+ 9725 strings out of 475178
+ 148877 string characters out of 5766539
+ 566236 words of memory out of 5000000
  32635 multiletter control sequences out of 15000+600000
  568356 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,9n,79p,294b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,303b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.6
 00pk> </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx109
 5.600pk> </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm
@@ -366,10 +364,9 @@ cxc1200.600pk> </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ecrm1000.600pk> </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappe
 n/ec/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on /home/rb58853/Projects/Privates/rb58853/assets/cv.pdf (1 page
-, 74203 bytes).
+Output written on cv.pdf (1 page, 74897 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
+ 250 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
