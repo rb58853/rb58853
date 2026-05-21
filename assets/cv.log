@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.22)  27 APR 2026 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.4.22)  21 MAY 2026 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,7 +331,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 61.
 
-Overfull \hbox (6.52637pt too wide) in paragraph at lines 71--72
+Overfull \hbox (6.52637pt too wide) in paragraph at lines 72--73
 []\T1/cmr/m/n/10.95 Developed an au-to-mated language-generation pipeline us-in
 g NLP + Ope-nAI, with JSON-based Python--
  []
@@ -351,7 +351,7 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Here is how much of TeX's memory you used:
  9725 strings out of 475178
  148877 string characters out of 5766539
- 566236 words of memory out of 5000000
+ 567236 words of memory out of 5000000
  32635 multiletter control sequences out of 15000+600000
  568356 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -364,9 +364,9 @@ cxc1200.600pk> </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ecrm1000.600pk> </home/rb58853/.texlive2025/texmf-var/fonts/pk/ljfour/jknappe
 n/ec/ecbx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb>
-Output written on cv.pdf (1 page, 74897 bytes).
+Output written on cv.pdf (1 page, 75601 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
+ 252 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
