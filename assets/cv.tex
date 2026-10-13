@@ -6,6 +6,7 @@
 \usepackage[fontsize=11.5pt]{fontsize}
 \linespread{0.95}
 \usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={Ra\'ul Beltr\'an G\'omez -- CV}, pdfauthor={Ra\'ul Beltr\'an G\'omez}, pdfsubject={Computer Vision and AI Engineer}}
 \usepackage{xcolor}
 \usepackage{tabularx}
 \usepackage{enumitem}
@@ -56,51 +57,54 @@
 {\color{primary}\rule{\linewidth}{1pt}}
 
 \cvsection{Professional Summary}
-AI and software engineer with production experience in computer vision (YOLO detection and pose models, ONNX and TensorRT deployment, real-time industrial vision) and in LLM systems (MCP servers, agents, NLP, REST APIs). Strong background in Python backends, secure integrations and cross-stack development (React, Unity), with hands-on integration of industrial robots and PLCs.
+AI and software engineer with production experience in computer vision (real-time detection and pose estimation architectures, ONNX and TensorRT deployment, industrial vision) and in LLM systems (MCP servers, agents, NLP, REST APIs). Strong background in Python backends, secure integrations and cross-stack development (React, Unity), and hands-on experience in vision-guided robot control.
 
 \cvsection{Experience}
 \cvjob{Promart Automatizaciones}{Madrid, Spain}{Computer Vision and AI Engineer}{01/06/2026 -- Present}
 \begin{itemize}
   \tightitems
-  \item Built the real-time vision system of a robotic teat-sealing cell (rotary milking parlour): YOLOv8 teat detection (XYZ mm), YOLOv8-Pose posture safety gate, OCR, cow ID; ONNX/TensorRT GPU inference.
+  \item Built the real-time vision system of a robotic teat-sealing cell (rotary milking parlor): CNN object detection of udder and teats, cow identification and stall-number OCR; ONNX/TensorRT GPU inference.
+  \item Developed a 13-keypoint pose-estimation pipeline with temporal smoothing across frames and rule-based geometric checks, designed to minimize false positives.
   \item Owned the model lifecycle (labeling, augmentation, Optuna tuning, ONNX/TensorRT export, mAP and latency benchmarks, S3 versioning, CI/CD) and its Python stack: clean architecture, FastAPI, tests.
-  \item Wrote a Python robot simulator running the production program against the PLC; also integrated the cell: conveyor-synced Yaskawa YRC1000 (INFORM) and Omron NX1P2 PLC (EtherNet/IP, FINS).
+  \item Linked vision output to robot control via robot APIs; built a Python robot simulator for offline tests.
 \end{itemize}
 
-\cvjob{Cogitia}{Madrid, Spain (Remote for Barcelona, Spain)}{MCP, LLM Agents, Chatbot and REST API Developer}{14/05/2025 -- 20/05/2026}
+\cvjob{Cogitia}{Remote (Barcelona, Spain)}{AI Engineer (LLM Agents and MCP)}{14/05/2025 -- 20/05/2026}
 \begin{itemize}
   \tightitems
-  \item Designed and maintained MCP servers for enterprise workflows using embedded LLM clients and robust prompt, tool and resource patterns.
-  \item Developed intelligent LLM agents with LangGraph-style orchestration for business automation workflows.
-  \item Built NLP modules for automation, including data operations, scheduling, and internal query handling.
+  \item Designed and maintained MCP servers for enterprise workflows, exposing tools, resources and prompts to LLM clients, secured with OAuth 2.1 and header-based authentication.
+  \item Developed LLM agents with LangGraph orchestration for business automation workflows.
+  \item Built NLP modules for automation, including data operations, scheduling and internal query handling.
 \end{itemize}
 
-\cvjob{Word Games}{Havana, Cuba (Remote for Bogot\'a, Colombia)}{Game Developer, Development Team}{20/10/2024 -- 10/05/2025}
+\cvjob{Word Games}{Remote (Bogot\'a, Colombia)}{Game Developer}{20/10/2024 -- 10/05/2025}
 \begin{itemize}
   \tightitems
-  \item Led end-to-end programming of Arcane Ascent (deck-building roguelike), shipped on Steam Early Access.
+  \item Led end-to-end programming of Arcane Ascent (deck-building roguelike, Unity/C\#), shipped on Steam.
   \item Integrated native Steam systems (achievements, saves), improving platform readiness and user experience.
 \end{itemize}
 
-\cvjob{Devman}{Havana, Cuba (Remote for Madrid, Spain)}{NLP, Chatbot and REST API Developer}{10/04/2024 -- 14/10/2024}
+\cvjob{Devman}{Remote (Madrid, Spain)}{NLP and Backend Developer}{10/04/2024 -- 14/10/2024}
 \begin{itemize}
   \tightitems
   \item Designed an e-commerce assistant with NLP intent handling and product retrieval for faster discovery.
-  \item Built backend services in FastAPI, including API key security, WebSocket chat, and authorization layers.
+  \item Built backend services in FastAPI, including API key security, WebSocket chat and authorization layers.
 \end{itemize}
 
 \cvsection{Education}
 \textbf{University of Havana} \hfill Havana, Cuba\\
-\textit{Bachelor of Computer Science} \hfill Expected 23/01/2024
+\textit{Bachelor of Computer Science} \hfill 23/01/2024
 \vspace{0.15em}
 \begin{itemize}
   \tightitems
-  \item Relevant fields: Artificial Intelligence and Machine Learning, Information Retrieval, Compilers, Operating Systems, Databases, Distributed Systems, Networks, Algorithms and Data Structures, Graph Theory.
+  \item Coursework: Artificial Intelligence and Machine Learning, Information Retrieval, Compilers, Operating Systems, Databases, Distributed Systems, Networks, Algorithms and Data Structures, Graph Theory.
 \end{itemize}
 
 \cvsection{Skills}
-\textbf{Languages:} Spanish (native), English (B1).\\
+\textbf{Languages:} Spanish (native), English (B2).\\
 \textbf{Programming:} Python, C\#, C/C++, JavaScript/TypeScript, Assembly (MIPS).\\
-\textbf{Technical:} Computer Vision (YOLO, OpenCV, ONNX Runtime, TensorRT, OCR), PyTorch, TensorFlow, Optuna, MCP, LLMs, LangGraph, LangChain, NLP, RAG, FastAPI, .NET, Databases, ReactJS, PyQt6, Unity Engine, Docker.
+\textbf{AI/ML:} Computer Vision, PyTorch, TensorFlow, Optuna, MCP, LangGraph, LangChain, NLP, RAG.\\
+\textbf{Software:} FastAPI, .NET, React, PyQt6, Unity Engine, Docker, Git.\\
+\textbf{AI-assisted development:} Claude Code (advanced), agentic coding workflows, MCP tool integrations.
 
 \end{document}

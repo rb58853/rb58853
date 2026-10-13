@@ -1,1 +1,6 @@
 CLAUDE.md
+
+# LaTeX build residue (cv.pdf is versioned on purpose)
+assets/cv.aux
+assets/cv.log
+assets/cv.out

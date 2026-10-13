@@ -1,7 +1,7 @@
 <h1 align="center">Raul Beltran</h1>
 
 <p align="center">
-  <strong>Computer Scientist</strong> · AI Engineer · LLM/Agents Developer · Game Developer
+  <strong>Computer Scientist</strong> · Computer Vision &amp; AI Engineer · LLM/Agents Developer · Game Developer
 </p>
 
 <p align="center">
@@ -12,8 +12,9 @@
 
 - Based in Madrid, Spain.
 - Computer Scientist from the University of Havana.
-- Focused on algorithms, machine learning, and artificial intelligence.
-- Interested in number theory, graph theory, and practical AI systems.
+- Currently building industrial computer vision systems at Promart Automatizaciones (real-time detection, pose estimation, ONNX/TensorRT).
+- Focused on computer vision, LLM agents and MCP, and practical AI systems.
+- Interested in number theory, graph theory, and algorithm design.
 - Open to collaborating on meaningful projects.
 
 <!-- ## GitHub Stats -->
