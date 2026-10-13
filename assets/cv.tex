@@ -11,9 +11,10 @@
 \usepackage{tabularx}
 \usepackage{enumitem}
 
-\definecolor{primary}{HTML}{2A4A18}
-\definecolor{textmain}{HTML}{1F2933}
-\definecolor{textmuted}{HTML}{5B6470}
+\definecolor{primary}{HTML}{1F1F1F}
+\definecolor{textmain}{HTML}{222222}
+\definecolor{textmuted}{HTML}{6B6B6B}
+\definecolor{rulegray}{HTML}{9A9A9A}
 
 \setlength{\parindent}{0pt}
 \setlength{\emergencystretch}{1.5em}
@@ -24,7 +25,7 @@
 \newcommand{\cvsection}[1]{
   \vspace{0.45em}
   {\large\textbf{\textcolor{primary}{\textsc{#1}}}}\\[-0.35em]
-  {\color{primary}\rule{\linewidth}{0.8pt}}
+  {\color{rulegray}\rule{\linewidth}{0.6pt}}
   \vspace{0.15em}
 }
 
@@ -42,6 +43,7 @@
 }
 
 \begin{document}
+\pagestyle{empty}
 \color{textmain}
 
 {\Huge\textbf{\textcolor{primary}{Ra\'ul Beltr\'an G\'omez}}}\\[-0.15em]
@@ -54,7 +56,7 @@
 \href{https://www.linkedin.com/in/rb58853/}{linkedin.com/in/rb58853}}
 
 \vspace{0.2em}
-{\color{primary}\rule{\linewidth}{1pt}}
+{\color{rulegray}\rule{\linewidth}{0.8pt}}
 
 \cvsection{Professional Summary}
 AI and software engineer with production experience in computer vision (real-time detection and pose estimation architectures, ONNX and TensorRT deployment, industrial vision) and in LLM systems (MCP servers, agents, NLP, REST APIs). Strong background in Python backends, secure integrations and cross-stack development (React, Unity), and hands-on experience in vision-guided robot control.
@@ -68,6 +70,7 @@ AI and software engineer with production experience in computer vision (real-tim
   \item Owned the model lifecycle (labeling, augmentation, Optuna tuning, ONNX/TensorRT export, mAP and latency benchmarks, S3 versioning, CI/CD) and its Python stack: clean architecture, FastAPI, tests.
   \item Linked vision output to robot control via robot APIs; built a Python robot simulator for offline tests.
 \end{itemize}
+\vspace{0.2em}
 
 \cvjob{Cogitia}{Remote (Barcelona, Spain)}{AI Engineer (LLM Agents and MCP)}{14/05/2025 -- 20/05/2026}
 \begin{itemize}
@@ -76,6 +79,7 @@ AI and software engineer with production experience in computer vision (real-tim
   \item Developed LLM agents with LangGraph orchestration for business automation workflows.
   \item Built NLP modules for automation, including data operations, scheduling and internal query handling.
 \end{itemize}
+\vspace{0.2em}
 
 \cvjob{Word Games}{Remote (Bogot\'a, Colombia)}{Game Developer}{20/10/2024 -- 10/05/2025}
 \begin{itemize}
@@ -83,6 +87,7 @@ AI and software engineer with production experience in computer vision (real-tim
   \item Led end-to-end programming of Arcane Ascent (deck-building roguelike, Unity/C\#), shipped on Steam.
   \item Integrated native Steam systems (achievements, saves), improving platform readiness and user experience.
 \end{itemize}
+\vspace{0.2em}
 
 \cvjob{Devman}{Remote (Madrid, Spain)}{NLP and Backend Developer}{10/04/2024 -- 14/10/2024}
 \begin{itemize}
