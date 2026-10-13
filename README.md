@@ -19,8 +19,7 @@
 
 <!-- ## GitHub Stats -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rb58853&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rb58853&theme=gruvbox&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Featured Projects
