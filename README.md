@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.rb58853.net"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/rb58853/rb58853/raw/main/assets/cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="https://portfolio.rb58853.net"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/rb58853/rb58853/raw/main/assets/raul_beltran_cv.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download-1d4ed8?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
 ## About Me
